@@ -12,6 +12,7 @@ struct QuestionView: View {
     @State private var total = 0
     @State private var select:[Question] = []
     @State private var gameover = false
+    @Environment(\.dismiss) var dismiss
     let LiteratureQuestion: [Question] = [
         Question(text: "In what year was John Milton born?", options: ["1598", "1608", "1618", "1628"], answer: "1608"),
         Question(text: "Which university did Milton attend?", options: ["Oxford University", "Cambridge University", "Edinburgh University", "Trinity College Dublin"], answer: "Cambridge University"),
@@ -83,7 +84,7 @@ struct QuestionView: View {
         Question(text: "In Book 9, Eve is initially surprised that:", options: ["The serpent is beautiful", "The serpent can speak", "The serpent knows her name", "The serpent is in Paradise"], answer: "The serpent can speak"),
         Question(text: "In Book 9, Satan tells Eve he gained speech by:", options: ["God's gift", "Eating from the Tree of Knowledge", "Magic", " Natural evolution"], answer: "Eating from the Tree of Knowledge"),
         Question(text: "In Book 9, Eve's primary motivation for eating the fruit is:", options: ["Hunger", "Desire for knowledge and to become god-like", " Obedience to the serpent", "Curiosity alone"], answer: "Desire for knowledge and to become god-like"),
-        Question(text: "After eating the fruit, Eve's first impulse is to:", options: ["Repent immediately", "Share it with Adam", "Hide from God", "Worship the tree"], answer: "Worship the tree"),
+        Question(text: "After eating the fruit, Eve's first impulse is to:", options: ["Repent immediately", "Share it with Adam", "Hide from God", "Worship the tree"], answer: "Share it with Adam"),
         Question(text: "In Book 9, Eve decides to give the fruit to Adam because:", options: ["She loves him", "She fears dying and leaving Adam to another Eve", "God commanded it", "The serpent told her to"], answer: "She fears dying and leaving Adam to another Eve"),
         Question(text: "When Eve offers Adam the fruit in Book 9, his first reaction is:", options: ["Joy", "Horror and the loss of the roses from his hand", "Anger", "Confusion"], answer: "Horror and the loss of the roses from his hand"),
         Question(text: "In Book 9, Adam chooses to eat the fruit because:", options: ["He is deceived like Eve", "He is hungry", "He cannot bear to lose Eve and chooses to fall with her", "He wants to become like God"], answer: "He cannot bear to lose Eve and chooses to fall with her"),
@@ -193,18 +194,36 @@ struct QuestionView: View {
                         
                    
                     VStack {
-                        // Score 區塊靠上
-                        ZStack{
-                            Capsule()
-                                .fill(Color.white)
-                                .frame(width: 220, height: 100)
-                                .opacity(0.8)
-                            Text("Score : \(score)")
-                                .font(Font.largeTitle.bold())
+                        // Top-left dismiss button row
+                        HStack {
+                            Button {
+                                dismiss()
+                            } label: {
+                                Image(systemName: "chevron.left")
+                                    .symbolRenderingMode(.monochrome)
+                                    .foregroundColor(.black)
+                                    .font(.system(size: 28, weight: .bold)) // larger symbol
+                                    .frame(width: 56, height: 56) // larger tappable area
+                            }
+                            Spacer()
                         }
-                        .padding(.top, 24)
+                        .padding(.top, 8)
+                        .padding(.leading, 10)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+
+                        // Score 區塊靠上
+                            ZStack{
+                                Capsule()
+                                    .fill(Color.white)
+                                    .frame(width: 220, height: 100)
+                                    .opacity(0.8)
+                                Text("Score : \(score)")
+                                    .font(Font.largeTitle.bold())
+                            }
+                            .padding(.top, 24)
                         
-                        Spacer(minLength: 12)
+                        
+                        Spacer(minLength: 10)
                         
                         // 題目區塊：固定高度 + 可捲動，確保能完整閱讀
                         VStack(spacing: 8) {
@@ -225,13 +244,12 @@ struct QuestionView: View {
                             .padding(.horizontal, 8)
                         }
                         .frame(maxWidth: .infinity, alignment: .center)
-                        .padding(.vertical, 12)
+                        .padding(.vertical, 5) 
                         .layoutPriority(1)
                         
-                        Spacer(minLength: 8)
-
+                        Spacer(minLength: 4)
                         // 放大選項按鈕 + 增加間距
-                        VStack(spacing: 16) {
+                        VStack(spacing: 12) {
                             ForEach(select[total].options, id: \.self) { option in
                                 Button(action: {
                                     if option == select[total].answer{

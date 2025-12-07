@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		EA8BC6A42EE353430038A887 /* MarkdownUI in Frameworks */ = {isa = PBXBuildFile; productRef = EA8BC6A32EE353430038A887 /* MarkdownUI */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		EA8BC6702EDDFD8B0038A887 /* ExploringParadiseLost.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExploringParadiseLost.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -36,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA8BC6A42EE353430038A887 /* MarkdownUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +83,7 @@
 			);
 			name = ExploringParadiseLost;
 			packageProductDependencies = (
+				EA8BC6A32EE353430038A887 /* MarkdownUI */,
 			);
 			productName = ExploringParadiseLost;
 			productReference = EA8BC6702EDDFD8B0038A887 /* ExploringParadiseLost.app */;
@@ -107,6 +113,9 @@
 			);
 			mainGroup = EA8BC6672EDDFD8B0038A887;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				EA8BC6A22EE353430038A887 /* XCRemoteSwiftPackageReference "swift-markdown-ui" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = EA8BC6712EDDFD8B0038A887 /* Products */;
 			projectDirPath = "";
@@ -343,6 +352,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		EA8BC6A22EE353430038A887 /* XCRemoteSwiftPackageReference "swift-markdown-ui" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/gonzalezreal/swift-markdown-ui";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.4.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EA8BC6A32EE353430038A887 /* MarkdownUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EA8BC6A22EE353430038A887 /* XCRemoteSwiftPackageReference "swift-markdown-ui" */;
+			productName = MarkdownUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EA8BC6682EDDFD8B0038A887 /* Project object */;
 }
