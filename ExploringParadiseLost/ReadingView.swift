@@ -38,7 +38,6 @@ struct ReadingView: View {
     @AppStorage("fontSize") private var fontSize: Double = 16
     @AppStorage("isDarkMode") private var isDarkMode: Bool = false
     @AppStorage("showOriginalText") private var showOriginalText: Bool = true
-    @AppStorage("autoPlayAudio") private var autoPlayAudio: Bool = false
     
     // 書籍內容資料
     let books: [BookContent] = [
@@ -116,7 +115,7 @@ struct ReadingView: View {
     private let buttonTextBase: CGFloat = 16
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ZStack(alignment: .bottom) {
                 // 背景：深色模式改為深灰
                 (isDarkMode ? Color(white: 0.12) : Color(red: 0.98, green: 0.96, blue: 0.92))
@@ -473,16 +472,6 @@ struct ReadingView: View {
             
             Divider()
             
-            // 自動朗讀 - Toggle
-            Toggle(isOn: $autoPlayAudio) {
-                HStack {
-                    Image(systemName: "speaker.wave.2.fill")
-                    Text("自動朗讀")
-                        .font(.system(size: contextBodyBase * scale))
-                }
-                .foregroundColor(isDarkMode ? .white : .primary)
-            }
-            .tint(.blue)
         }
         .padding()
         .background(isDarkMode ? Color(white: 0.15) : Color(white: 0.98))
