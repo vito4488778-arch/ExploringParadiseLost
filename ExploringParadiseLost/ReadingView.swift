@@ -851,37 +851,346 @@ struct ReadingView: View {
         ),
         BookContent(
             id: 2,
-            title: "Book II: Satan's Council",
+            title: "Book II",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
+            **High on a throne** of royal state, which far  
             Outshone the wealth of Ormus and of Ind,  
             Or where the gorgeous East with richest hand  
             Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
+            Satan exalted sat, by merit raised  
+            To that bad eminence; and, from despair  
+            Thus high uplifted beyond hope, aspires  
+            Beyond thus high, insatiate to pursue  
+            Vain war with Heaven; and, by success untaught,  
+            His proud imaginations thus displayed:—  
+            “**Powers and Dominions**, Deities of Heaven!—  
+            For, since no deep within her gulf can hold  
+            Immortal vigour, though oppressed and fallen,  
+            I give not Heaven for lost: from this descent  
+            Celestial Virtues rising will appear  
+            More glorious and more dread than from no fall,  
+            And trust themselves to fear no second fate!—  
+            Me though just right, and the fixed laws of Heaven,  
+            Did first create your leader—next, free choice  
+            With what besides in council or in fight  
+            Hath been achieved of merit—yet this loss,  
+            Thus far at least recovered, hath much more  
+            Established in a safe, unenvied throne,  
+            Yielded with full consent. The happier state  
+            In Heaven, which follows dignity, might draw  
+            Envy from each inferior; but who here  
+            Will envy whom the highest place exposes  
+            Foremost to stand against the Thunderer’s aim  
+            Your bulwark, and condemns to greatest share  
+            Of endless pain? Where there is, then, no good  
+            For which to strive, no strife can grow up there  
+            From faction: for none sure will claim in Hell  
+            Precedence; none whose portion is so small  
+            Of present pain that with ambitious mind  
+            Will covet more! With this advantage, then,  
+            To union, and firm faith, and firm accord,  
+            More than can be in Heaven, we now return  
+            To claim our just inheritance of old,  
+            Surer to prosper than prosperity  
+            Could have assured us; and by what best way,  
+            Whether of open war or covert guile,  
+            We now debate. Who can advise may speak.”  
+            **He ceased**; and next him Moloch, sceptred king,  
+            Stood up—the strongest and the fiercest Spirit  
+            That fought in Heaven, now fiercer by despair.  
+            His trust was with th’ Eternal to be deemed  
+            Equal in strength, and rather than be less  
+            Cared not to be at all; with that care lost  
+            Went all his fear: of God, or Hell, or worse,  
+            He recked not, and these words thereafter spake:—  
 
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            
             """,
             summary: """
-            ## 地獄議會
-
-            高踞王座之上，其輝煌遠超  
-            奧爾穆斯與印度的財富，  
-            或華麗的東方以最豐富的手  
-            將野蠻的珍珠與黃金灑向她的國王，  
-            撒旦高傲地坐著...
-
-            - 墮落天使之間的辯論
-            - 著手計畫腐化新創造的世界
+            > The fallen angels convene in Pandemonium to debate their response to defeat. Various leaders propose different strategies: Moloch advocates renewed warfare, Belial suggests passive endurance, and Mammon recommends building their own kingdom in Hell. Beelzebub, speaking for Satan, proposes corrupting God's new creation—mankind. Satan volunteers for this dangerous mission, establishing himself as the heroic leader willing to risk everything. His journey through Chaos is one of Milton's most imaginative passages, depicting a formless, anarchic realm between Hell and Heaven. At Hell's gates, Satan encounters Sin and Death, allegorical figures who are revealed as his offspring—Sin born from Satan's head, Death from their incestuous union. This grotesque family represents the genealogy of evil. Sin unlocks the gates, and Satan proceeds toward Earth. Book 2 brilliantly employs epic conventions while exploring political themes of leadership, debate, and decision-making, subtly critiquing earthly governance.
             """,
-            context: "撒旦召開地獄議會，討論如何報復上帝。最終決定前往新創造的世界——地球，引誘人類墮落。"
+            context: "Fallen angels debate their next move. Satan volunteers to corrupt God's new world, Earth. He journeys through Chaos, encountering his offspring Sin and Death at Hell's gates, who release him to find humanity and execute his vengeful plan."
         ),
         BookContent(
             id: 3,
             title: "Book III",
             originalText: """
+            **Hail, holy Light**, offspring of Heaven firstborn,  
+            Or of the Eternal coeternal beam  
+            May I express thee unblam’d? since God is light,  
+            And never but in unapproached light  
+            Dwelt from eternity, dwelt then in thee  
+            Bright effluence of bright essence increate.  
+            Or hear’st thou rather pure ethereal stream,  
+            Whose fountain who shall tell? before the sun,  
+            Before the Heavens thou wert, and at the voice  
+            Of God, as with a mantle, didst invest  
+            The rising world of waters dark and deep,  
+            Won from the void and formless infinite.  
+            Thee I re-visit now with bolder wing,  
+            Escap’d the Stygian pool, though long detain’d  
+            In that obscure sojourn, while in my flight  
+            Through utter and through middle darkness borne,  
+            With other notes than to the Orphean lyre  
+            I sung of Chaos and eternal Night;  
+            Taught by the heavenly Muse to venture down  
+            The dark descent, and up to re-ascend,  
+            Though hard and rare: Thee I revisit safe,  
+            And feel thy sovran vital lamp; but thou  
+            Revisit’st not these eyes, that roll in vain  
+            To find thy piercing ray, and find no dawn;  
+            So thick a drop serene hath quench’d their orbs,  
+            Or dim suffusion veil’d. Yet not the more  
+            Cease I to wander, where the Muses haunt,  
+            Clear spring, or shady grove, or sunny hill,  
+            Smit with the love of sacred song; but chief  
+            Thee, Sion, and the flowery brooks beneath,  
+            That wash thy hallow’d feet, and warbling flow,  
+            Nightly I visit: nor sometimes forget  
+            Those other two equaled with me in fate  
+            So were I equall’d with them in renown,  
+            Thy sovran command, that Man should find grace;  
+            Blind Thamyris, and blind Maeonides,  
+            And Tiresias, and Phineus, prophets old:  
+            Then feed on thoughts, that voluntary move  
+            Harmonious numbers; as the wakeful bird  
+            Sings darkling, and in shadiest covert hid  
+            Tunes her nocturnal note. Thus with the year  
+            Seasons return; but not to me returns  
+            Day, or the sweet approach of even or morn,  
+            Or sight of vernal bloom, or summer’s rose,  
+            Or flocks, or herds, or human face divine;  
+            But cloud instead, and ever-during dark  
+            Surrounds me, from the cheerful ways of men  
+            Cut off, and for the book of knowledge fair  
+            Presented with a universal blank  
+            Of nature’s works to me expung’d and ras’d,  
+            And wisdom at one entrance quite shut out.  
+            So much the rather thou, celestial Light,  
+            Shine inward, and the mind through all her powers  
+            Irradiate; there plant eyes, all mist from thence  
+            Purge and disperse, that I may see and tell  
+            Of things invisible to mortal sight.  
+            Now had the Almighty Father from above,  
+            From the pure empyrean where he sits  
+            High thron’d above all highth, bent down his eye  
+            His own works and their works at once to view:  
+            About him all the Sanctities of Heaven  
+            Stood thick as stars, and from his sight receiv’d  
+            Beatitude past utterance; on his right  
+            The radiant image of his glory sat,  
+            His only son; on earth he first beheld  
+            Our two first parents, yet the only two  
+            Of mankind in the happy garden plac’d  
+            Reaping immortal fruits of joy and love,  
+            Uninterrupted joy, unrivall’d love,  
+            In blissful solitude; he then survey’d  
+            Hell and the gulf between, and Satan there  
+            Coasting the wall of Heaven on this side Night  
+            In the dun air sublime, and ready now  
+            To stoop with wearied wings, and willing feet,  
+            On the bare outside of this world, that seem’d  
+            Firm land imbosom’d, without firmament,  
+            Uncertain which, in ocean or in air.  
+            Him God beholding from his prospect high,  
+            Wherein past, present, future, he beholds,  
+            Thus to his only Son foreseeing spake.  
+            Only begotten Son, seest thou what rage  
+            Transports our Adversary? whom no bounds  
+            Prescrib’d no bars of Hell, nor all the chains  
+            Heap’d on him there, nor yet the main abyss  
+            Wide interrupt, can hold; so bent he seems  
+            On desperate revenge, that shall redound  
+            Upon his own rebellious head. And now,  
+            Through all restraint broke loose, he wings his way  
+            Not far off Heaven, in the precincts of light,  
+            Directly towards the new created world,  
+            And man there plac’d, with purpose to assay  
+            If him by force he can destroy, or, worse,  
+            By some false guile pervert; and shall pervert;  
+            For man will hearken to his glozing lies,  
+            And easily transgress the sole command,  
+            Sole pledge of his obedience: So will fall  
+            He and his faithless progeny: Whose fault?  
+            Whose but his own? ingrate, he had of me  
+            All he could have; I made him just and right,  
+            Sufficient to have stood, though free to fall.  
+            Such I created all the ethereal Powers  
+            And Spirits, both them who stood, and them who fail’d;  
+            Freely they stood who stood, and fell who fell.  
+            Not free, what proof could they have given sincere  
+            Of true allegiance, constant faith or love,  
+            Where only what they needs must do appear’d,  
+            Not what they would? what praise could they receive?  
+            What pleasure I from such obedience paid,  
+            When will and reason (reason also is choice)  
+            Useless and vain, of freedom both despoil’d,  
+            Made passive both, had serv’d necessity,  
+            Not me. They therefore, as to right belong’d,  
+            So were created, nor can justly accuse  
+            Their Maker, or their making, or their fate,  
+            As if predestination over-rul’d  
+            Their will dispos’d by absolute decree  
+            Or high foreknowledge they themselves decreed  
+            Their own revolt, not I; if I foreknew,  
+            Foreknowledge had no influence on their fault,  
+            Which had no less proved certain unforeknown.  
+            So without least impulse or shadow of fate,  
+            Or aught by me immutably foreseen,  
+            They trespass, authors to themselves in all  
+            Both what they judge, and what they choose; for so  
+            I form’d them free: and free they must remain,  
+            Till they enthrall themselves; I else must change  
+            Their nature, and revoke the high decree  
+            Unchangeable, eternal, which ordain’d  
+            Their freedom: they themselves ordain’d their fall.  
+            The first sort by their own suggestion fell,  
+            Self-tempted, self-deprav’d: Man falls, deceiv’d  
+            By the other first: Man therefore shall find grace,   
+            The other none: In mercy and justice both,  
+            Through Heaven and Earth, so shall my glory excel;  
+            But Mercy, first and last, shall brightest shine.  
+            Thus while God spake, ambrosial fragrance fill’d  
+            All Heaven, and in the blessed Spirits elect  
+            Sense of new joy ineffable diffus’d.  
+            Beyond compare the Son of God was seen  
+            Most glorious; in him all his Father shone  
+            Substantially express’d; and in his face  
+            Divine compassion visibly appear’d,  
+            Love without end, and without measure grace,  
+            Which uttering, thus he to his Father spake.  
+            O Father, gracious was that word which clos’d  
+            Thy sovran command, that Man should find grace;  
+            For which both Heaven and earth shall high extol  
+            Thy praises, with the innumerable sound  
+            Of hymns and sacred songs, wherewith thy throne  
+            Encompass’d shall resound thee ever blest.  
+            For should Man finally be lost, should Man,  
+            Thy creature late so lov’d, thy youngest son,  
+            Fall circumvented thus by fraud, though join’d  
+            With his own folly? that be from thee far,  
+            That far be from thee, Father, who art judge  
+            Of all things made, and judgest only right.  
+            Or shall the Adversary thus obtain  
+            His end, and frustrate thine? shall he fulfill  
+            His malice, and thy goodness bring to nought,  
+            Or proud return, though to his heavier doom,  
+            Yet with revenge accomplish’d, and to Hell  
+            Draw after him the whole race of mankind,  
+            By him corrupted? or wilt thou thyself  
+            Abolish thy creation, and unmake  
+            For him, what for thy glory thou hast made?  
+            So should thy goodness and thy greatness both  
+            Be question’d and blasphem’d without defence.  
+            To whom the great Creator thus replied.  
+            O son, in whom my soul hath chief delight,  
+            Son of my bosom, Son who art alone.  
+            My word, my wisdom, and effectual might,  
+            All hast thou spoken as my thoughts are, all  
+            As my eternal purpose hath decreed;  
+            Man shall not quite be lost, but sav’d who will;  
+            Yet not of will in him, but grace in me  
+            Freely vouchsaf’d; once more I will renew  
+            His lapsed powers, though forfeit; and enthrall’d  
+            By sin to foul exorbitant desires;  
+            Upheld by me, yet once more he shall stand  
+            On even ground against his mortal foe;  
+            By me upheld, that he may know how frail  
+            His fallen condition is, and to me owe  
+            All his deliverance, and to none but me.  
+            Some I have chosen of peculiar grace,  
+            Elect above the rest; so is my will:  
+            The rest shall hear me call, and oft be warn’d  
+            Their sinful state, and to appease betimes  
+            The incensed Deity, while offer’d grace  
+            Invites; for I will clear their senses dark,  
+            What may suffice, and soften stony hearts  
+            To pray, repent, and bring obedience due.  
+            To prayer, repentance, and obedience due,  
+            Though but endeavour’d with sincere intent,  
+            Mine ear shall not be slow, mine eye not shut.  
+            And I will place within them as a guide,  
+            My umpire Conscience; whom if they will hear,  
+            Light after light, well us’d, they shall attain,  
+            And to the end, persisting, safe arrive.  
+            This my long sufferance, and my day of grace,  
+            They who neglect and scorn, shall never taste;  
+            But hard be harden’d, blind be blinded more,  
+            That they may stumble on, and deeper fall;  
+            And none but such from mercy I exclude.  
+            But yet all is not done; Man disobeying,  
+            Disloyal, breaks his fealty, and sins  
+            Against the high supremacy of Heaven,  
+            Affecting God-head, and, so losing all,  
+            To expiate his treason hath nought left,  
+            But to destruction sacred and devote,  
+            He, with his whole posterity, must die,  
+            Die he or justice must; unless for him  
+            Some other able, and as willing, pay  
+            The rigid satisfaction, death for death.  
+            Say, heavenly Powers, where shall we find such love?  
+            Which of you will be mortal, to redeem  
+            Man’s mortal crime, and just the unjust to save?  
+            Dwells in all Heaven charity so dear?  
+            He ask’d, but all the heavenly quire stood mute,  
+            And silence was in Heaven: on Man’s behalf  
+            Patron or intercessour none appear’d,  
+            Much less that durst upon his own head draw  
+            The deadly forfeiture, and ransom set.  
+            And now without redemption all mankind  
+            Must have been lost, adjudg’d to Death and Hell  
+            By doom severe, had not the Son of God,  
+            In whom the fulness dwells of love divine,  
+            His dearest mediation thus renew’d.  
+            Father, thy word is past, Man shall find grace;  
+            And shall grace not find means, that finds her way,  
+            The speediest of thy winged messengers,  
+            To visit all thy creatures, and to all  
+            Comes unprevented, unimplor’d, unsought?  
+            Happy for Man, so coming; he her aid  
+            Can never seek, once dead in sins, and lost;  
+            Atonement for himself, or offering meet,  
+            Indebted and undone, hath none to bring;  
+            Behold me then: me for him, life for life  
+            I offer: on me let thine anger fall;  
+            Account me Man; I for his sake will leave  
+            Thy bosom, and this glory next to thee  
+            Freely put off, and for him lastly die  
+            Well pleased; on me let Death wreak all his rage.  
+            Under his gloomy power I shall not long  
+            Lie vanquished. Thou hast given me to possess  
+            Life in myself for ever; by thee I live;  
+            Though now to Death I yield, and am his due,  
+            All that of me can die, yet, that debt paid,  
+            Thou wilt not leave me in the loathsome grave  
+            His prey, nor suffer my unspotted soul  
+            For ever with corruption there to dwell;  
+            But I shall rise victorious, and subdue  
+            My vanquisher, spoiled of his vaunted spoil.  
+            Death his death’s wound shall then receive, and stoop  
+            Inglorious, of his mortal sting disarmed;  
+            I through the ample air in triumph high  
+            Shall lead Hell captive maugre Hell, and show  
+            The powers of darkness bound. Thou, at the sight  
+            Pleased, out of Heaven shalt look down and smile,  
+            While, by thee raised, I ruin all my foes;  
+            Death last, and with his carcase glut the grave;  
+            Then, with the multitude of my redeemed,  
+            Shall enter Heaven, long absent, and return,  
+            Father, to see thy face, wherein no cloud  
+            Of anger shall remain, but peace assured  
+            And reconcilement: wrath shall be no more  
+            Thenceforth, but in thy presence joy entire.  
+            """,
+            summary: """
+            > Book 3 shifts dramatically from Hell's darkness to Heaven's light. God observes Satan's journey and foresees humanity's fall, but He emphasizes that Adam and Eve possess genuine free will—their sin will be their own choice. This theological argument addresses the problem of predestination versus free will, central to Milton's Protestant beliefs. The Son's offer to sacrifice himself for humanity's redemption demonstrates divine love and mercy, contrasting with Satan's selfish ambition. This pivotal moment establishes the Christian framework of felix culpa (fortunate fall)—humanity's sin will ultimately lead to greater good through Christ's redemption. Meanwhile, Satan reaches the outer shell of the cosmos, encounters the angel Uriel on the sun, and deceives him by disguising himself as a young cherub seeking to admire God's creation. Milton's description of Heaven emphasizes light, harmony, and love, while his cosmology presents a fascinating Ptolemaic universe that serves his narrative purposes rather than scientific accuracy.
+            """,
+            context: "God foresees Satan's mission and man's fall but affirms human free will. The Son offers to sacrifice himself for humanity's redemption. Meanwhile, Satan reaches Earth's outer shell, deceives Uriel, and descends toward Paradise, disguised as a cherub."
+        ),
+        BookContent(
+            id: 4,
+            title: "Book IV",
+            originalText: """
             ## Council in Pandemonium
 
             High on a throne of royal state, which far  
@@ -894,19 +1203,170 @@ struct ReadingView: View {
             - Plans to corrupt the newly created world
             """,
             summary: """
-            ## 地獄議會
-
-            高踞王座之上，其輝煌遠超  
-            奧爾穆斯與印度的財富，  
-            或華麗的東方以最豐富的手  
-            將野蠻的珍珠與黃金灑向她的國王，  
-            撒旦高傲地坐著...
-
-            - 墮落天使之間的辯論
-            - 著手計畫腐化新創造的世界
+            > Satan's first view of Paradise reveals both its beauty and his own corruption. His soliloquy exposes internal conflict—he acknowledges God's justice but cannot overcome his pride. This moment humanizes Satan, showing his capacity for self-awareness and even remorse, though ultimately his evil nature prevails. Adam and Eve appear in their prelapsarian perfection, innocent and harmonious with nature. Milton's portrait emphasizes both their equality as rational beings and their gender hierarchy, reflecting seventeenth-century views. Their bower represents ideal married love. Satan's envy transforms to active malice as he plots their destruction. The archangel Gabriel and his angelic patrol discover Satan whispering temptations into Eve's ear as she sleeps, planting the seeds for her troubling dream. When confronted, Satan initially defies Gabriel, but divine intervention—golden scales appearing in the sky—demonstrates the futility of his resistance, and he flees, temporarily prevented from executing his plan.
             """,
-            context: "撒旦召開地獄議會，討論如何報復上帝。最終決定前往新創造的世界——地球，引誘人類墮落。"
+            context: "Satan enters Eden and sees Adam and Eve in blissful innocence. Consumed by envy, he resolves to ruin them. Gabriel's angels discover Satan whispering temptations to sleeping Eve. Confronted, Satan flees at dawn, temporarily deterred from his destructive purpose."
         ),
+        BookContent(
+            id: 5,
+            title: "Book V",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > Eve awakens disturbed by her dream of temptation, which Satan has inspired. Adam comforts her, explaining that dreams don't reflect true desires, yet this foreshadows her actual fall. God sends Raphael to warn them about their enemy and emphasize the importance of obedience. Raphael's visit introduces the concept of the "sociable spirit"—angels and humans can commune through conversation and shared meals, though angelic digestion is purely metaphorical. Raphael begins recounting the War in Heaven, explaining how Satan, originally called Lucifer, resented God's exaltation of the Son. Satan's pride led him to corrupt a third of Heaven's angels through deceptive rhetoric, claiming divine tyranny and arguing for angelic independence. Abdiel, a faithful angel, courageously opposes Satan despite being alone among rebels, demonstrating that righteous dissent requires moral courage. This book explores themes of hierarchy, obedience, reason, and the nature of true freedom—obedience to God is liberty, while rebellion leads to slavery.
+            """,
+            context: "Eve recounts her troubling dream. Raphael visits to warn Adam about Satan and free will. He describes the celestial hierarchy and recounts Lucifer's prideful rebellion when God exalted the Son, causing a third of angels to revolt in Heaven."
+        ),
+        BookContent(
+            id: 6,
+            title: "Book VI",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > Raphael continues his narrative with the War in Heaven, spanning three days. Michael leads God's loyal angels against Satan's forces in cosmic battle. Milton faces the challenge of depicting warfare among immortal beings—angels cannot die, so defeated warriors simply reconstitute themselves. The rebels innovate by inventing artillery (an anachronistic detail symbolizing human military technology), but the faithful angels respond by hurling mountains. This escalating violence threatens Heaven itself until the Son, representing divine omnipotence, enters the battle alone on the third day. His chariot, drawn by cherubim and wielding the power of creation itself, drives the rebels to Heaven's edge. They fall through Chaos for nine days before landing in Hell. This battle allegory operates on multiple levels: theologically, it demonstrates that evil cannot prevail against divine power; politically, it may reflect English Civil War conflicts; and psychologically, it represents the soul's internal struggles. The Son's solo victory emphasizes that salvation comes through Christ alone, not collective military might.
+            """,
+            context: "Raphael continues describing the War in Heaven. Michael and Gabriel battle Satan's forces for two days. On the third day, the Son alone drives the rebels to Hell's edge, where they fall nine days, demonstrating divine power and justice."
+        ),
+        BookContent(
+            id: 7,
+            title: "Book VII",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > Adam requests to hear about Creation, finding the topic more pleasant than warfare. Raphael explains that after Satan's fall, God decided to create a new world and new beings to replenish Heaven's diminished numbers and demonstrate His creative power. The Son, as God's creative Word, descends into Chaos with His golden compasses to impose order and form. Raphael's creation account closely follows Genesis but with elaborate poetic embellishment. Over six days, the Son creates light, firmament separating waters, earth with vegetation, celestial bodies, sea creatures and birds, land animals, and finally humanity. Each stage demonstrates divine artistry and purposeful design. Milton's universe is Ptolemaic—Earth-centered—not because he was ignorant of heliocentric theories, but because this cosmology served his theological narrative. The creation account emphasizes abundance, variety, and hierarchical order. Humanity, created last and "in God's image," stands at the pinnacle of material creation, with the potential to rise higher through obedience or fall lower through sin, foreshadowing the epic's central tragedy.
+            """,
+            context: "Adam requests creation's story. Raphael explains how God sent the Son to create the universe in six days after Satan's fall—forming light, firmament, earth, celestial bodies, creatures, and finally humanity to replace the fallen angels' number."
+        ),
+        BookContent(
+            id: 8,
+            title: "Book VIII",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > Adam reciprocates Raphael's storytelling by describing his own first memories. He recalls awakening to consciousness, wondering about his existence and identity, then encountering God, who places him in Eden and grants him dominion over creation. Adam's request for companionship reveals his rational self-awareness—despite Paradise's perfections, he recognizes his need for an equal partner. God tests Adam's reasoning by suggesting animals might suffice, but Adam articulates the need for intellectual and emotional communion. God, pleased with this response, creates Eve from Adam's rib while he sleeps. Adam's account of meeting Eve reveals his immediate, overwhelming attraction, which he confesses to Raphael with some embarrassment. Raphael warns against being governed by passion rather than reason—a crucial admonition that Adam will fail to heed. The angel emphasizes that love should be balanced with wisdom. Raphael then departs, having fulfilled his mission of warning and instruction. This book explores human relationships, the nature of companionship, and the proper ordering of reason and passion.
+            """,
+            context: "Adam describes his first memories and his request for a companion. God creates Eve from Adam's rib. Adam confesses his intense attraction to Eve. Raphael warns against excessive passion, urging reason to govern love, then departs with final cautions."
+        ),
+        BookContent(
+            id: 9,
+            title: "Book IX",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > Book 9 contains the epic's tragic climax. Milton signals the shift from celestial to terrestrial tragedy, noting this theme surpasses Homer and Virgil's martial epics. Satan returns to Eden after a nine-day absence, entering the serpent's body—a degradation from his former angelic glory. He finds Eve alone (she has insisted on working separately from Adam despite his mild objections), providing his opportunity. Satan's temptation speech is rhetorically masterful, flattering Eve's beauty, feigning amazement that the fruit gave him speech and reason, and subtly undermining God's prohibition as arbitrary and unjust. Eve, swayed by curiosity, pride, and the serpent's reasoning, eats the fruit. Her decision to share it with Adam presents him with an agonizing choice. Adam, recognizing her sin instantly, chooses to fall with her rather than live without her—a decision Milton portrays as simultaneously loving and catastrophically wrong. Their immediate effects include shame, lust replacing innocent love, and bitter mutual recrimination. Paradise is lost internally before their physical expulsion.
+            """,
+            context: "Satan returns as a serpent. He flatters Eve, leading her alone to the forbidden tree. She eats the fruit, then persuades Adam, who chooses to fall with her rather than lose her. Their innocence dies; shame, lust, and mutual recrimination begin."
+        ),
+        BookContent(
+            id: 10,
+            title: "Book X",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > The consequences of the Fall unfold dramatically. The Son descends to judge Adam and Eve, but His judgment mingles justice with mercy—pronouncing curses that align with Genesis (pain in childbirth, agricultural toil, death) while clothing them, symbolizing divine compassion. In Heaven, angels observe the cosmic changes: nature becomes hostile, seasons harsh, animals predatory. Meanwhile, Sin and Death, sensing their opportunity, build a bridge from Hell to Earth, creating an easy passage for evil to infiltrate the world. Satan returns to Hell expecting triumphant celebration but finds his followers transformed into hissing serpents, compulsively eating bitter fruit—a symbolic punishment revealing their true nature. On Earth, Adam and Eve experience despair, shame, and mutual blame. Adam's bitter speeches reflect human psychology at its worst—regret, anger, and self-pity. Yet Eve's eventual gesture of reconciliation and suggestion they seek forgiveness marks the beginning of repentance. Their decision to pray together represents humanity's first step toward redemption, demonstrating that even in fallen state, humans retain capacity for moral growth.
+            """,
+            context: "The Son judges Adam and Eve with mercy. Sin and Death build a bridge from Hell to Earth. Satan returns triumphantly but finds his followers transformed into serpents. Adam and Eve despair, then reconcile and pray for forgiveness, showing repentance's first stirrings."
+        ),
+        BookContent(
+            id: 11,
+            title: "Book XI",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > God accepts their repentance but decrees they must leave Paradise. Michael descends to execute this sentence but first offers Adam visions of human history, functioning as prophetic instruction. From a mountaintop, Adam witnesses the future: Cain's murder of Abel (the first death, shocking Adam profoundly), the growth of civilization with both achievements and corruptions, the increasing wickedness that provokes God's judgment in Noah's Flood, and the subsequent covenant. These visions devastate Adam as he recognizes that his sin has unleashed death, violence, and suffering upon his descendants. Michael explains that death takes many forms—disease, old age, violence—and that humans must learn temperance and virtue to mitigate suffering. The flood sequence emphasizes both divine justice and mercy—judgment destroys the wicked but preserves the righteous remnant. Adam learns that history will involve perpetual struggle between good and evil until final redemption. This educational experience transforms Adam's understanding, preparing him for exile with greater wisdom about Providence, suffering, and the long arc of salvation history.  
+            """,
+            context: "Michael descends to expel them from Eden but first shows Adam visions of future human history—Cain's murder, the Flood, and humanity's corruption. Adam grieves at sin's consequences but learns that good may ultimately emerge through suffering and faith."
+        ),
+        BookContent(
+            id: 12,
+            title: "Book XII",
+            originalText: """
+            ## Council in Pandemonium
+
+            High on a throne of royal state, which far  
+            Outshone the wealth of Ormus and of Ind,  
+            Or where the gorgeous East with richest hand  
+            Showers on her kings barbaric pearl and gold,  
+            Satan exalted sat...
+
+            - Debate among the fallen angels
+            - Plans to corrupt the newly created world
+            """,
+            summary: """
+            > Michael continues the prophetic narrative, tracing redemption history through Abraham, Moses, and the prophets. The giving of Mosaic Law demonstrates humanity's need for external guidance due to corrupted internal reason. However, Michael explains that law alone cannot save—it reveals sin without providing remedy. The culmination comes with prophecy of Christ's incarnation, life, crucifixion, resurrection, and ascension. This revelation transforms Adam's despair into joy as he recognizes the "fortunate fall"—his sin, while terrible, occasions greater good through redemption. Michael describes the Church's establishment, its trials, corruptions, and ultimate purification at Christ's second coming. Eve receives consolation through dreams revealing her role as mother of humanity and of the promised Redeemer. Finally, Michael leads them from Paradise. The closing image is deeply moving: Adam and Eve, hand in hand, looking back at Eden with tears but also hope, stepping into an uncertain world. They exchange security for freedom, innocence for moral knowledge, and Paradise for the opportunity to build something meaningful through their choices. Milton's conclusion balances loss and hope, tragedy and redemption.
+            """,
+            context: "Michael reveals future redemption through Abraham's line, Moses' law, and ultimately Christ's incarnation, sacrifice, and resurrection. Adam rejoices at this fortunate fall. Michael leads them from Paradise; they depart hand-in-hand, facing an uncertain but hopeful future."
+        )
     ]
     
     var currentContent: BookContent {
