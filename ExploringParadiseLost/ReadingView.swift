@@ -1191,16 +1191,1021 @@ struct ReadingView: View {
             id: 4,
             title: "Book IV",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **O, for that** warning voice, which he, who saw  
+            The Apocalypse, heard cry in Heaven aloud,  
+            Then when the Dragon, put to second rout,  
+            Came furious down to be revenged on men,  
+            Woe to the inhabitants on earth! that now,  
+            While time was, our first parents had been warned  
+            The coming of their secret foe, and ’scaped,  
+            Haply so ’scaped his mortal snare: For now  
+            Satan, now first inflamed with rage, came down,  
+            The tempter ere the accuser of mankind,  
+            To wreak on innocent frail Man his loss  
+            Of that first battle, and his flight to Hell:  
+            Yet, not rejoicing in his speed, though bold  
+            Far off and fearless, nor with cause to boast,  
+            Begins his dire attempt; which nigh the birth  
+            Now rolling boils in his tumultuous breast,  
+            And like a devilish engine back recoils  
+            Upon himself; horrour and doubt distract  
+            His troubled thoughts, and from the bottom stir  
+            The Hell within him; for within him Hell  
+            He brings, and round about him, nor from Hell  
+            One step, no more than from himself, can fly  
+            By change of place: Now conscience wakes despair,  
+            That slumbered; wakes the bitter memory  
+            Of what he was, what is, and what must be  
+            Worse; of worse deeds worse sufferings must ensue.  
+            Sometimes towards Eden, which now in his view  
+            Lay pleasant, his grieved look he fixes sad;  
+            Sometimes towards Heaven, and the full-blazing sun,  
+            Which now sat high in his meridian tower:  
+            Then, much revolving, thus in sighs began.  
+            O thou, that, with surpassing glory crowned,  
+            Lookest from thy sole dominion like the God  
+            Of this new world; at whose sight all the stars  
+            Hide their diminished heads; to thee I call,  
+            But with no friendly voice, and add thy name,  
+            Of Sun! to tell thee how I hate thy beams,  
+            That bring to my remembrance from what state  
+            I fell, how glorious once above thy sphere;  
+            Till pride and worse ambition threw me down  
+            Warring in Heaven against Heaven’s matchless King:  
+            Ah, wherefore! he deserved no such return  
+            From me, whom he created what I was  
+            In that bright eminence, and with his good  
+            Upbraided none; nor was his service hard.  
+            What could be less than to afford him praise,  
+            The easiest recompence, and pay him thanks,  
+            How due! yet all his good proved ill in me,  
+            And wrought but malice; lifted up so high  
+            I ’sdeined subjection, and thought one step higher  
+            Would set me highest, and in a moment quit  
+            The debt immense of endless gratitude,  
+            So burdensome still paying, still to owe,  
+            Forgetful what from him I still received,  
+            And understood not that a grateful mind  
+            By owing owes not, but still pays, at once  
+            Indebted and discharged; what burden then  
+            O, had his powerful destiny ordained  
+            Me some inferiour Angel, I had stood  
+            Then happy; no unbounded hope had raised  
+            Ambition! Yet why not some other Power  
+            As great might have aspired, and me, though mean,  
+            Drawn to his part; but other Powers as great  
+            Fell not, but stand unshaken, from within  
+            Or from without, to all temptations armed.  
+            Hadst thou the same free will and power to stand?  
+            Thou hadst: whom hast thou then or what to accuse,  
+            But Heaven’s free love dealt equally to all?  
+            Be then his love accursed, since love or hate,  
+            To me alike, it deals eternal woe.  
+            Nay, cursed be thou; since against his thy will  
+            Chose freely what it now so justly rues.  
+            Me miserable! which way shall I fly  
+            Infinite wrath, and infinite despair?  
+            Which way I fly is Hell; myself am Hell;  
+            And, in the lowest deep, a lower deep  
+            Still threatening to devour me opens wide,  
+            To which the Hell I suffer seems a Heaven.  
+            O, then, at last relent: Is there no place  
+            Left for repentance, none for pardon left?  
+            None left but by submission; and that word  
+            Disdain forbids me, and my dread of shame  
+            Among the Spirits beneath, whom I seduced  
+            With other promises and other vaunts  
+            Than to submit, boasting I could subdue  
+            The Omnipotent. Ay me! they little know  
+            How dearly I abide that boast so vain,  
+            Under what torments inwardly I groan,  
+            While they adore me on the throne of Hell.  
+            With diadem and scepter high advanced,  
+            The lower still I fall, only supreme  
+            In misery: Such joy ambition finds.  
+            But say I could repent, and could obtain,  
+            By act of grace, my former state; how soon  
+            Would highth recall high thoughts, how soon unsay  
+            What feigned submission swore? Ease would recant  
+            Vows made in pain, as violent and void.  
+            For never can true reconcilement grow,  
+            Where wounds of deadly hate have pierced so deep:  
+            Which would but lead me to a worse relapse  
+            And heavier fall: so should I purchase dear  
+            Short intermission bought with double smart.  
+            This knows my Punisher; therefore as far  
+            From granting he, as I from begging, peace;  
+            All hope excluded thus, behold, instead  
+            Of us out-cast, exil’d, his new delight,  
+            Mankind created, and for him this world.  
+            So farewell, hope; and with hope farewell, fear;  
+            Farewell, remorse! all good to me is lost;  
+            Evil, be thou my good; by thee at least  
+            Divided empire with Heaven’s King I hold,  
+            By thee, and more than half perhaps will reign;  
+            As Man ere long, and this new world, shall know.  
+            Thus while he spake, each passion dimmed his face  
+            Thrice changed with pale, ire, envy, and despair;  
+            Which marred his borrowed visage, and betrayed  
+            Him counterfeit, if any eye beheld.  
+            For heavenly minds from such distempers foul  
+            Are ever clear. Whereof he soon aware,  
+            Each perturbation smoothed with outward calm,  
+            Artificer of fraud; and was the first  
+            That practised falsehood under saintly show,  
+            Deep malice to conceal, couched with revenge:  
+            Yet not enough had practised to deceive  
+            Uriel once warned; whose eye pursued him down  
+            The way he went, and on the Assyrian mount  
+            Saw him disfigured, more than could befall  
+            Spirit of happy sort; his gestures fierce  
+            He marked and mad demeanour, then alone,  
+            As he supposed, all unobserved, unseen.  
+            So on he fares, and to the border comes  
+            Of Eden, where delicious Paradise,  
+            Now nearer, crowns with her enclosure green,  
+            As with a rural mound, the champaign head  
+            Of a steep wilderness, whose hairy sides  
+            With thicket overgrown, grotesque and wild,  
+            Access denied; and overhead upgrew  
+            Insuperable height of loftiest shade,  
+            Cedar, and pine, and fir, and branching palm,  
+            A sylvan scene, and, as the ranks ascend,  
+            Shade above shade, a woody theatre  
+            Of stateliest view. Yet higher than their tops  
+            The verdurous wall of Paradise upsprung;  
+            Which to our general sire gave prospect large  
+            Into his nether empire neighbouring round.  
+            And higher than that wall a circling row  
+            Of goodliest trees, loaden with fairest fruit,  
+            Blossoms and fruits at once of golden hue,  
+            Appeared, with gay enamelled colours mixed:  
+            On which the sun more glad impressed his beams  
+            Than in fair evening cloud, or humid bow,  
+            When God hath showered the earth; so lovely seemed  
+            That landskip: And of pure now purer air  
+            Meets his approach, and to the heart inspires  
+            Vernal delight and joy, able to drive  
+            All sadness but despair: Now gentle gales,  
+            Fanning their odoriferous wings, dispense  
+            Native perfumes, and whisper whence they stole  
+            Those balmy spoils. As when to them who fail  
+            Beyond the Cape of Hope, and now are past  
+            Mozambick, off at sea north-east winds blow  
+            Sabean odours from the spicy shore  
+            Of Araby the blest; with such delay  
+            Well pleased they slack their course, and many a league  
+            Cheered with the grateful smell old Ocean smiles:  
+            So entertained those odorous sweets the Fiend,  
+            Who came their bane; though with them better pleased  
+            Than Asmodeus with the fishy fume  
+            That drove him, though enamoured, from the spouse  
+            Of Tobit’s son, and with a vengeance sent  
+            From Media post to Egypt, there fast bound.  
+            Now to the ascent of that steep savage hill  
+            Satan had journeyed on, pensive and slow;  
+            But further way found none, so thick entwined,  
+            As one continued brake, the undergrowth  
+            Of shrubs and tangling bushes had perplexed  
+            All path of man or beast that passed that way.  
+            One gate there only was, and that looked east  
+            On the other side: which when the arch-felon saw,  
+            Due entrance he disdained; and, in contempt,  
+            At one flight bound high over-leaped all bound  
+            Of hill or highest wall, and sheer within  
+            Lights on his feet. As when a prowling wolf,  
+            Whom hunger drives to seek new haunt for prey,  
+            Watching where shepherds pen their flocks at eve  
+            In hurdled cotes amid the field secure,  
+            Leaps o’er the fence with ease into the fold:  
+            Or as a thief, bent to unhoard the cash  
+            Of some rich burgher, whose substantial doors,  
+            Cross-barred and bolted fast, fear no assault,  
+            In at the window climbs, or o’er the tiles:  
+            So clomb this first grand thief into God’s fold;  
+            So since into his church lewd hirelings climb.  
+            Thence up he flew, and on the tree of life,  
+            The middle tree and highest there that grew,  
+            Sat like a cormorant; yet not true life  
+            Thereby regained, but sat devising death  
+            To them who lived; nor on the virtue thought  
+            Of that life-giving plant, but only used  
+            For prospect, what well used had been the pledge  
+            Of immortality. So little knows  
+            Any, but God alone, to value right  
+            The good before him, but perverts best things  
+            To worst abuse, or to their meanest use.  
+            Beneath him with new wonder now he views,  
+            To all delight of human sense exposed,  
+            In narrow room, Nature’s whole wealth, yea more,  
+            A Heaven on Earth: For blissful Paradise  
+            Of God the garden was, by him in the east  
+            Of Eden planted; Eden stretched her line  
+            From Auran eastward to the royal towers  
+            Of great Seleucia, built by Grecian kings,  
+            Or where the sons of Eden long before  
+            Dwelt in Telassar: In this pleasant soil  
+            His far more pleasant garden God ordained;  
+            Out of the fertile ground he caused to grow  
+            All trees of noblest kind for sight, smell, taste;  
+            And all amid them stood the tree of life,  
+            High eminent, blooming ambrosial fruit  
+            Of vegetable gold; and next to life,  
+            Our death, the tree of knowledge, grew fast by,  
+            Knowledge of good bought dear by knowing ill.  
+            Southward through Eden went a river large,  
+            Nor changed his course, but through the shaggy hill  
+            Passed underneath ingulfed; for God had thrown  
+            That mountain as his garden-mould high raised  
+            Upon the rapid current, which, through veins  
+            Of porous earth with kindly thirst up-drawn,  
+            Rose a fresh fountain, and with many a rill  
+            Watered the garden; thence united fell  
+            Down the steep glade, and met the nether flood,  
+            Which from his darksome passage now appears,  
+            And now, divided into four main streams,  
+            Runs diverse, wandering many a famous realm  
+            And country, whereof here needs no account;  
+            But rather to tell how, if Art could tell,  
+            How from that sapphire fount the crisped brooks,  
+            Rolling on orient pearl and sands of gold,  
+            With mazy errour under pendant shades  
+            Ran nectar, visiting each plant, and fed  
+            Flowers worthy of Paradise, which not nice Art  
+            In beds and curious knots, but Nature boon  
+            Poured forth profuse on hill, and dale, and plain,  
+            Both where the morning sun first warmly smote  
+            The open field, and where the unpierced shade  
+            Imbrowned the noontide bowers: Thus was this place  
+            A happy rural seat of various view;  
+            Groves whose rich trees wept odorous gums and balm,  
+            Others whose fruit, burnished with golden rind,  
+            Hung amiable, Hesperian fables true,  
+            If true, here only, and of delicious taste:  
+            Betwixt them lawns, or level downs, and flocks  
+            Grazing the tender herb, were interposed,  
+            Or palmy hillock; or the flowery lap  
+            Of some irriguous valley spread her store,  
+            Flowers of all hue, and without thorn the rose:  
+            Another side, umbrageous grots and caves  
+            Of cool recess, o’er which the mantling vine  
+            Lays forth her purple grape, and gently creeps  
+            Luxuriant; mean while murmuring waters fall  
+            Down the slope hills, dispersed, or in a lake,  
+            That to the fringed bank with myrtle crowned  
+            Her crystal mirrour holds, unite their streams.  
+            The birds their quire apply; airs, vernal airs,  
+            Breathing the smell of field and grove, attune  
+            The trembling leaves, while universal Pan,  
+            Knit with the Graces and the Hours in dance,  
+            Led on the eternal Spring. Not that fair field  
+            Of Enna, where Proserpine gathering flowers,  
+            Herself a fairer flower by gloomy Dis  
+            Was gathered, which cost Ceres all that pain  
+            To seek her through the world; nor that sweet grove  
+            Of Daphne by Orontes, and the inspired  
+            Castalian spring, might with this Paradise  
+            Of Eden strive; nor that Nyseian isle  
+            Girt with the river Triton, where old Cham,  
+            Whom Gentiles Ammon call and Libyan Jove,  
+            Hid Amalthea, and her florid son  
+            Young Bacchus, from his stepdame Rhea’s eye;  
+            Nor where Abassin kings their issue guard,  
+            Mount Amara, though this by some supposed  
+            True Paradise under the Ethiop line  
+            By Nilus’ head, enclosed with shining rock,  
+            A whole day’s journey high, but wide remote  
+            From this Assyrian garden, where the Fiend  
+            Saw, undelighted, all delight, all kind  
+            Of living creatures, new to sight, and strange  
+            Two of far nobler shape, erect and tall,  
+            Godlike erect, with native honour clad  
+            In naked majesty seemed lords of all:  
+            And worthy seemed; for in their looks divine  
+            The image of their glorious Maker shone,  
+            Truth, wisdom, sanctitude severe and pure,  
+            (Severe, but in true filial freedom placed,)  
+            Whence true authority in men; though both  
+            Not equal, as their sex not equal seemed;  
+            For contemplation he and valour formed;  
+            For softness she and sweet attractive grace;  
+            He for God only, she for God in him:  
+            His fair large front and eye sublime declared  
+            Absolute rule; and hyacinthine locks  
+            Round from his parted forelock manly hung  
+            Clustering, but not beneath his shoulders broad:  
+            She, as a veil, down to the slender waist  
+            Her unadorned golden tresses wore  
+            Dishevelled, but in wanton ringlets waved  
+            As the vine curls her tendrils, which implied  
+            Subjection, but required with gentle sway,  
+            And by her yielded, by him best received,  
+            Yielded with coy submission, modest pride,  
+            And sweet, reluctant, amorous delay.  
+            Nor those mysterious parts were then concealed;  
+            Then was not guilty shame, dishonest shame  
+            Of nature’s works, honour dishonourable,  
+            Sin-bred, how have ye troubled all mankind  
+            With shows instead, mere shows of seeming pure,  
+            And banished from man’s life his happiest life,  
+            Simplicity and spotless innocence!  
+            So passed they naked on, nor shunned the sight  
+            Of God or Angel; for they thought no ill:  
+            So hand in hand they passed, the loveliest pair,  
+            That ever since in love’s embraces met;  
+            Adam the goodliest man of men since born  
+            His sons, the fairest of her daughters Eve.  
+            Under a tuft of shade that on a green  
+            Stood whispering soft, by a fresh fountain side  
+            They sat them down; and, after no more toil  
+            Of their sweet gardening labour than sufficed  
+            To recommend cool Zephyr, and made ease  
+            More easy, wholesome thirst and appetite  
+            More grateful, to their supper-fruits they fell,  
+            Nectarine fruits which the compliant boughs  
+            Yielded them, side-long as they sat recline  
+            On the soft downy bank damasked with flowers:  
+            The savoury pulp they chew, and in the rind,  
+            Still as they thirsted, scoop the brimming stream;  
+            Nor gentle purpose, nor endearing smiles  
+            Wanted, nor youthful dalliance, as beseems  
+            Fair couple, linked in happy nuptial league,  
+            Alone as they. About them frisking played  
+            All beasts of the earth, since wild, and of all chase  
+            In wood or wilderness, forest or den;  
+            Sporting the lion ramped, and in his paw  
+            Dandled the kid; bears, tigers, ounces, pards,  
+            Gambolled before them; the unwieldy elephant,  
+            To make them mirth, used all his might, and wreathed  
+            His lithe proboscis; close the serpent sly,  
+            Insinuating, wove with Gordian twine  
+            His braided train, and of his fatal guile  
+            Gave proof unheeded; others on the grass  
+            Couched, and now filled with pasture gazing sat,  
+            Or bedward ruminating; for the sun,  
+            Declined, was hasting now with prone career  
+            To the ocean isles, and in the ascending scale  
+            Of Heaven the stars that usher evening rose:  
+            When Satan still in gaze, as first he stood,  
+            Scarce thus at length failed speech recovered sad.  
+            O Hell! what do mine eyes with grief behold!  
+            Into our room of bliss thus high advanced  
+            Creatures of other mould, earth-born perhaps,  
+            Not Spirits, yet to heavenly Spirits bright  
+            Little inferiour; whom my thoughts pursue  
+            With wonder, and could love, so lively shines  
+            In them divine resemblance, and such grace  
+            The hand that formed them on their shape hath poured.  
+            Ah! gentle pair, ye little think how nigh  
+            Your change approaches, when all these delights  
+            Will vanish, and deliver ye to woe;  
+            More woe, the more your taste is now of joy;  
+            Happy, but for so happy ill secured  
+            Long to continue, and this high seat your Heaven  
+            Ill fenced for Heaven to keep out such a foe  
+            As now is entered; yet no purposed foe  
+            To you, whom I could pity thus forlorn,  
+            Though I unpitied: League with you I seek,  
+            And mutual amity, so strait, so close,  
+            That I with you must dwell, or you with me  
+            Henceforth; my dwelling haply may not please,  
+            Like this fair Paradise, your sense; yet such  
+            Accept your Maker’s work; he gave it me,  
+            Which I as freely give: Hell shall unfold,  
+            To entertain you two, her widest gates,  
+            And send forth all her kings; there will be room,  
+            Not like these narrow limits, to receive  
+            Your numerous offspring; if no better place,  
+            Thank him who puts me loth to this revenge  
+            On you who wrong me not for him who wronged.  
+            And should I at your harmless innocence  
+            Melt, as I do, yet publick reason just,  
+            Honour and empire with revenge enlarged,  
+            By conquering this new world, compels me now  
+            To do what else, though damned, I should abhor.  
+            So spake the Fiend, and with necessity,  
+            The tyrant’s plea, excused his devilish deeds.  
+            Then from his lofty stand on that high tree  
+            Down he alights among the sportful herd  
+            Of those four-footed kinds, himself now one,  
+            Now other, as their shape served best his end  
+            Nearer to view his prey, and, unespied,  
+            To mark what of their state he more might learn,  
+            By word or action marked. About them round  
+            A lion now he stalks with fiery glare;  
+            Then as a tiger, who by chance hath spied  
+            In some purlieu two gentle fawns at play,  
+            Straight couches close, then, rising, changes oft  
+            His couchant watch, as one who chose his ground,  
+            Whence rushing, he might surest seize them both,  
+            Griped in each paw: when, Adam first of men  
+            To first of women Eve thus moving speech,  
+            Turned him, all ear to hear new utterance flow.  
+            Sole partner, and sole part, of all these joys,  
+            Dearer thyself than all; needs must the Power  
+            That made us, and for us this ample world,  
+            Be infinitely good, and of his good  
+            As liberal and free as infinite;  
+            That raised us from the dust, and placed us here  
+            In all this happiness, who at his hand  
+            Have nothing merited, nor can perform  
+            Aught whereof he hath need; he who requires  
+            From us no other service than to keep  
+            This one, this easy charge, of all the trees  
+            In Paradise that bear delicious fruit  
+            So various, not to taste that only tree  
+            Of knowledge, planted by the tree of life;  
+            So near grows death to life, whate’er death is,  
+            Some dreadful thing no doubt; for well thou knowest  
+            God hath pronounced it death to taste that tree,  
+            The only sign of our obedience left,  
+            Among so many signs of power and rule  
+            Conferred upon us, and dominion given  
+            Over all other creatures that possess  
+            Earth, air, and sea. Then let us not think hard  
+            One easy prohibition, who enjoy  
+            Free leave so large to all things else, and choice  
+            Unlimited of manifold delights:  
+            But let us ever praise him, and extol  
+            His bounty, following our delightful task,  
+            To prune these growing plants, and tend these flowers,  
+            Which were it toilsome, yet with thee were sweet.  
+            To whom thus Eve replied. O thou for whom  
+            And from whom I was formed, flesh of thy flesh,  
+            And without whom am to no end, my guide  
+            And head! what thou hast said is just and right.  
+            For we to him indeed all praises owe,  
+            And daily thanks; I chiefly, who enjoy  
+            So far the happier lot, enjoying thee  
+            Pre-eminent by so much odds, while thou  
+            Like consort to thyself canst no where find.  
+            That day I oft remember, when from sleep  
+            I first awaked, and found myself reposed  
+            Under a shade on flowers, much wondering where  
+            And what I was, whence thither brought, and how.  
+            Not distant far from thence a murmuring sound  
+            Of waters issued from a cave, and spread  
+            Into a liquid plain, then stood unmoved  
+            Pure as the expanse of Heaven; I thither went  
+            With unexperienced thought, and laid me down  
+            On the green bank, to look into the clear  
+            Smooth lake, that to me seemed another sky.  
+            As I bent down to look, just opposite  
+            A shape within the watery gleam appeared,  
+            Bending to look on me: I started back,  
+            It started back; but pleased I soon returned,  
+            Pleased it returned as soon with answering looks  
+            Of sympathy and love: There I had fixed  
+            Mine eyes till now, and pined with vain desire,  
+            Had not a voice thus warned me; “What thou seest,  
+            What there thou seest, fair Creature, is thyself;  
+            With thee it came and goes: but follow me,  
+            And I will bring thee where no shadow stays  
+            Thy coming, and thy soft embraces, he  
+            Whose image thou art; him thou shalt enjoy  
+            Inseparably thine, to him shalt bear  
+            Multitudes like thyself, and thence be called  
+            Mother of human race.” What could I do,  
+            But follow straight, invisibly thus led?  
+            Till I espied thee, fair indeed and tall,  
+            Under a platane; yet methought less fair,  
+            Less winning soft, less amiably mild,  
+            Than that smooth watery image: Back I turned;  
+            Thou following cryedst aloud, “Return, fair Eve;  
+            Whom flyest thou? whom thou flyest, of him thou art,  
+            His flesh, his bone; to give thee being I lent  
+            Out of my side to thee, nearest my heart,  
+            Substantial life, to have thee by my side  
+            Henceforth an individual solace dear;  
+            Part of my soul I seek thee, and thee claim  
+            My other half:” With that thy gentle hand  
+            Seised mine: I yielded; and from that time see  
+            How beauty is excelled by manly grace,  
+            And wisdom, which alone is truly fair.  
+            So spake our general mother, and with eyes  
+            Of conjugal attraction unreproved,  
+            And meek surrender, half-embracing leaned  
+            On our first father; half her swelling breast  
+            Naked met his, under the flowing gold  
+            Of her loose tresses hid: he in delight  
+            Both of her beauty, and submissive charms,  
+            Smiled with superiour love, as Jupiter  
+            On Juno smiles, when he impregns the clouds  
+            That shed Mayflowers; and pressed her matron lip  
+            With kisses pure: Aside the Devil turned  
+            For envy; yet with jealous leer malign  
+            Eyed them askance, and to himself thus plained.  
+            Sight hateful, sight tormenting! thus these two,  
+            Imparadised in one another’s arms,  
+            The happier Eden, shall enjoy their fill  
+            Of bliss on bliss; while I to Hell am thrust,  
+            Where neither joy nor love, but fierce desire,  
+            Among our other torments not the least,  
+            Still unfulfilled with pain of longing pines.  
+            Yet let me not forget what I have gained  
+            From their own mouths: All is not theirs, it seems;  
+            One fatal tree there stands, of knowledge called,  
+            Forbidden them to taste: Knowledge forbidden  
+            Suspicious, reasonless. Why should their Lord  
+            Envy them that? Can it be sin to know?  
+            Can it be death? And do they only stand  
+            By ignorance? Is that their happy state,  
+            The proof of their obedience and their faith?  
+            O fair foundation laid whereon to build  
+            Their ruin! hence I will excite their minds  
+            With more desire to know, and to reject  
+            Envious commands, invented with design  
+            To keep them low, whom knowledge might exalt  
+            Equal with Gods: aspiring to be such,  
+            They taste and die: What likelier can ensue  
+            But first with narrow search I must walk round  
+            This garden, and no corner leave unspied;  
+            A chance but chance may lead where I may meet  
+            Some wandering Spirit of Heaven by fountain side,  
+            Or in thick shade retired, from him to draw  
+            What further would be learned. Live while ye may,  
+            Yet happy pair; enjoy, till I return,  
+            Short pleasures, for long woes are to succeed!  
+            So saying, his proud step he scornful turned,  
+            But with sly circumspection, and began  
+            Through wood, through waste, o’er hill, o’er dale, his roam  
+            Mean while in utmost longitude, where Heaven  
+            With earth and ocean meets, the setting sun  
+            Slowly descended, and with right aspect  
+            Against the eastern gate of Paradise  
+            Levelled his evening rays: It was a rock  
+            Of alabaster, piled up to the clouds,  
+            Conspicuous far, winding with one ascent  
+            Accessible from earth, one entrance high;  
+            The rest was craggy cliff, that overhung  
+            Still as it rose, impossible to climb.  
+            Betwixt these rocky pillars Gabriel sat,  
+            Chief of the angelick guards, awaiting night;  
+            About him exercised heroick games  
+            The unarmed youth of Heaven, but nigh at hand  
+            Celestial armoury, shields, helms, and spears,  
+            Hung high with diamond flaming, and with gold.  
+            Thither came Uriel, gliding through the even  
+            On a sun-beam, swift as a shooting star  
+            In autumn thwarts the night, when vapours fired  
+            Impress the air, and shows the mariner  
+            From what point of his compass to beware  
+            Impetuous winds: He thus began in haste.  
+            Gabriel, to thee thy course by lot hath given  
+            Charge and strict watch, that to this happy place  
+            No evil thing approach or enter in.  
+            This day at highth of noon came to my sphere  
+            A Spirit, zealous, as he seemed, to know  
+            More of the Almighty’s works, and chiefly Man,  
+            God’s latest image: I described his way  
+            Bent all on speed, and marked his aery gait;  
+            But in the mount that lies from Eden north,  
+            Where he first lighted, soon discerned his looks  
+            Alien from Heaven, with passions foul obscured:  
+            Mine eye pursued him still, but under shade  
+            Lost sight of him: One of the banished crew,  
+            I fear, hath ventured from the deep, to raise  
+            New troubles; him thy care must be to find.  
+            To whom the winged warriour thus returned.  
+            Uriel, no wonder if thy perfect sight,  
+            Amid the sun’s bright circle where thou sitst,  
+            See far and wide: In at this gate none pass  
+            The vigilance here placed, but such as come  
+            Well known from Heaven; and since meridian hour  
+            No creature thence: If Spirit of other sort,  
+            So minded, have o’er-leaped these earthly bounds  
+            On purpose, hard thou knowest it to exclude  
+            Spiritual substance with corporeal bar.  
+            But if within the circuit of these walks,  
+            In whatsoever shape he lurk, of whom  
+            Thou tellest, by morrow dawning I shall know.  
+            So promised he; and Uriel to his charge  
+            Returned on that bright beam, whose point now raised  
+            Bore him slope downward to the sun now fallen  
+            Beneath the Azores; whether the prime orb,  
+            Incredible how swift, had thither rolled  
+            Diurnal, or this less volubil earth,  
+            By shorter flight to the east, had left him there  
+            Arraying with reflected purple and gold  
+            The clouds that on his western throne attend.  
+            Now came still Evening on, and Twilight gray  
+            Had in her sober livery all things clad;  
+            Silence accompanied; for beast and bird,  
+            They to their grassy couch, these to their nests  
+            Were slunk, all but the wakeful nightingale;  
+            She all night long her amorous descant sung;  
+            Silence was pleased: Now glowed the firmament  
+            With living sapphires: Hesperus, that led  
+            The starry host, rode brightest, till the moon,  
+            Rising in clouded majesty, at length  
+            Apparent queen unveiled her peerless light,  
+            And o’er the dark her silver mantle threw.  
+            When Adam thus to Eve. Fair Consort, the hour  
+            Of night, and all things now retired to rest,  
+            Mind us of like repose; since God hath set  
+            Labour and rest, as day and night, to men  
+            Successive; and the timely dew of sleep,  
+            Now falling with soft slumbrous weight, inclines  
+            Our eye-lids: Other creatures all day long  
+            Rove idle, unemployed, and less need rest;  
+            Man hath his daily work of body or mind  
+            Appointed, which declares his dignity,  
+            And the regard of Heaven on all his ways;  
+            While other animals unactive range,  
+            And of their doings God takes no account.  
+            To-morrow, ere fresh morning streak the east  
+            With first approach of light, we must be risen,  
+            And at our pleasant labour, to reform  
+            Yon flowery arbours, yonder alleys green,  
+            Our walk at noon, with branches overgrown,  
+            That mock our scant manuring, and require  
+            More hands than ours to lop their wanton growth:  
+            Those blossoms also, and those dropping gums,  
+            That lie bestrown, unsightly and unsmooth,  
+            Ask riddance, if we mean to tread with ease;  
+            Mean while, as Nature wills, night bids us rest.   
+            To whom thus Eve, with perfect beauty adorned  
+            My Author and Disposer, what thou bidst  
+            Unargued I obey: So God ordains;  
+            God is thy law, thou mine: To know no more  
+            Is woman’s happiest knowledge, and her praise.  
+            With thee conversing I forget all time;  
+            All seasons, and their change, all please alike.  
+            Sweet is the breath of Morn, her rising sweet,  
+            With charm of earliest birds: pleasant the sun,  
+            When first on this delightful land he spreads  
+            His orient beams, on herb, tree, fruit, and flower,  
+            Glistering with dew; fragrant the fertile earth  
+            After soft showers; and sweet the coming on  
+            Of grateful Evening mild; then silent Night,  
+            With this her solemn bird, and this fair moon,  
+            And these the gems of Heaven, her starry train:  
+            But neither breath of Morn, when she ascends  
+            With charm of earliest birds; nor rising sun  
+            On this delightful land; nor herb, fruit, flower,  
+            Glistering with dew; nor fragrance after showers;  
+            Nor grateful Evening mild; nor silent Night,  
+            With this her solemn bird, nor walk by moon,  
+            Or glittering star-light, without thee is sweet.  
+            But wherefore all night long shine these? for whom  
+            This glorious sight, when sleep hath shut all eyes?  
+            To whom our general ancestor replied.  
+            Daughter of God and Man, accomplished Eve,  
+            These have their course to finish round the earth,  
+            By morrow evening, and from land to land  
+            In order, though to nations yet unborn,  
+            Ministring light prepared, they set and rise;  
+            Lest total Darkness should by night regain  
+            Her old possession, and extinguish life  
+            In Nature and all things; which these soft fires  
+            Not only enlighten, but with kindly heat  
+            Of various influence foment and warm,  
+            Temper or nourish, or in part shed down  
+            Their stellar virtue on all kinds that grow  
+            On earth, made hereby apter to receive  
+            Perfection from the sun’s more potent ray.  
+            These then, though unbeheld in deep of night,  
+            Shine not in vain; nor think, though men were none,  
+            That Heaven would want spectators, God want praise:  
+            Millions of spiritual creatures walk the earth  
+            Unseen, both when we wake, and when we sleep:  
+            All these with ceaseless praise his works behold  
+            Both day and night: How often from the steep  
+            Of echoing hill or thicket have we heard  
+            Celestial voices to the midnight air,  
+            Sole, or responsive each to others note,  
+            Singing their great Creator? oft in bands  
+            While they keep watch, or nightly rounding walk,  
+            With heavenly touch of instrumental sounds  
+            In full harmonick number joined, their songs  
+            Divide the night, and lift our thoughts to Heaven.  
+            Thus talking, hand in hand alone they passed  
+            On to their blissful bower: it was a place  
+            Chosen by the sovran Planter, when he framed  
+            All things to Man’s delightful use; the roof  
+            Of thickest covert was inwoven shade  
+            Laurel and myrtle, and what higher grew  
+            Of firm and fragrant leaf; on either side  
+            Acanthus, and each odorous bushy shrub,  
+            Fenced up the verdant wall; each beauteous flower,  
+            Iris all hues, roses, and jessamin,  
+            Reared high their flourished heads between, and wrought  
+            Mosaick; underfoot the violet,  
+            Crocus, and hyacinth, with rich inlay  
+            Broidered the ground, more coloured than with stone  
+            Of costliest emblem: Other creature here,  
+            Bird, beast, insect, or worm, durst enter none,  
+            Such was their awe of Man. In shadier bower  
+            More sacred and sequestered, though but feigned,  
+            Pan or Sylvanus never slept, nor Nymph  
+            Nor Faunus haunted. Here, in close recess,  
+            With flowers, garlands, and sweet-smelling herbs,  
+            Espoused Eve decked first her nuptial bed;  
+            And heavenly quires the hymenaean sung,  
+            What day the genial Angel to our sire  
+            Brought her in naked beauty more adorned,  
+            More lovely, than Pandora, whom the Gods  
+            Endowed with all their gifts, and O! too like  
+            In sad event, when to the unwiser son  
+            Of Japhet brought by Hermes, she ensnared  
+            Mankind with her fair looks, to be avenged  
+            On him who had stole Jove’s authentick fire.  
+            Thus, at their shady lodge arrived, both stood,  
+            Both turned, and under open sky adored  
+            The God that made both sky, air, earth, and heaven,  
+            Which they beheld, the moon’s resplendent globe,  
+            And starry pole: Thou also madest the night,  
+            Maker Omnipotent, and thou the day,  
+            Which we, in our appointed work employed,  
+            Have finished, happy in our mutual help  
+            And mutual love, the crown of all our bliss  
+            Ordained by thee; and this delicious place  
+            For us too large, where thy abundance wants   
+            Partakers, and uncropt falls to the ground.  
+            But thou hast promised from us two a race  
+            To fill the earth, who shall with us extol  
+            Thy goodness infinite, both when we wake,  
+            And when we seek, as now, thy gift of sleep.  
+            This said unanimous, and other rites  
+            Observing none, but adoration pure  
+            Which God likes best, into their inmost bower  
+            Handed they went; and, eased the putting off  
+            These troublesome disguises which we wear,  
+            Straight side by side were laid; nor turned, I ween,  
+            Adam from his fair spouse, nor Eve the rites  
+            Mysterious of connubial love refused:  
+            Whatever hypocrites austerely talk  
+            Of purity, and place, and innocence,  
+            Defaming as impure what God declares  
+            Pure, and commands to some, leaves free to all.  
+            Our Maker bids encrease; who bids abstain  
+            But our Destroyer, foe to God and Man?  
+            Hail, wedded Love, mysterious law, true source  
+            Of human offspring, sole propriety  
+            In Paradise of all things common else!  
+            By thee adulterous Lust was driven from men  
+            Among the bestial herds to range; by thee  
+            Founded in reason, loyal, just, and pure,  
+            Relations dear, and all the charities  
+            Of father, son, and brother, first were known.  
+            Far be it, that I should write thee sin or blame,  
+            Or think thee unbefitting holiest place,  
+            Perpetual fountain of domestick sweets,  
+            Whose bed is undefiled and chaste pronounced,  
+            Present, or past, as saints and patriarchs used.  
+            Here Love his golden shafts employs, here lights  
+            His constant lamp, and waves his purple wings,  
+            Reigns here and revels; not in the bought smile  
+            Of harlots, loveless, joyless, unendeared,  
+            Casual fruition; nor in court-amours,  
+            Mixed dance, or wanton mask, or midnight ball,  
+            Or serenate, which the starved lover sings  
+            To his proud fair, best quitted with disdain.  
+            These, lulled by nightingales, embracing slept,  
+            And on their naked limbs the flowery roof  
+            Showered roses, which the morn repaired. Sleep on,  
+            Blest pair; and O! yet happiest, if ye seek  
+            No happier state, and know to know no more.  
+            Now had night measured with her shadowy cone  
+            Half way up hill this vast sublunar vault,  
+            And from their ivory port the Cherubim,  
+            Forth issuing at the accustomed hour, stood armed  
+            To their night watches in warlike parade;  
+            When Gabriel to his next in power thus spake.  
+            Uzziel, half these draw off, and coast the south  
+            With strictest watch; these other wheel the north;  
+            Our circuit meets full west. As flame they part,  
+            Half wheeling to the shield, half to the spear.  
+            From these, two strong and subtle Spirits he called  
+            That near him stood, and gave them thus in charge.  
+            Ithuriel and Zephon, with winged speed  
+            Search through this garden, leave unsearched no nook;  
+            But chiefly where those two fair creatures lodge,  
+            Now laid perhaps asleep, secure of harm.  
+            This evening from the sun’s decline arrived,  
+            Who tells of some infernal Spirit seen  
+            Hitherward bent (who could have thought?) escaped  
+            The bars of Hell, on errand bad no doubt:  
+            Such, where ye find, seise fast, and hither bring.  
+            So saying, on he led his radiant files,  
+            Dazzling the moon; these to the bower direct  
+            In search of whom they sought: Him there they found  
+            Squat like a toad, close at the ear of Eve,  
+            Assaying by his devilish art to reach  
+            The organs of her fancy, and with them forge  
+            Illusions, as he list, phantasms and dreams;  
+            Or if, inspiring venom, he might taint  
+            The animal spirits, that from pure blood arise  
+            Like gentle breaths from rivers pure, thence raise  
+            At least distempered, discontented thoughts,  
+            Vain hopes, vain aims, inordinate desires,  
+            Blown up with high conceits ingendering pride.  
+            Him thus intent Ithuriel with his spear  
+            Touched lightly; for no falshood can endure  
+            Touch of celestial temper, but returns  
+            Of force to its own likeness: Up he starts  
+            Discovered and surprised. As when a spark  
+            Lights on a heap of nitrous powder, laid  
+            Fit for the tun some magazine to store  
+            Against a rumoured war, the smutty grain,  
+            With sudden blaze diffused, inflames the air;  
+            So started up in his own shape the Fiend.  
+            Back stept those two fair Angels, half amazed  
+            So sudden to behold the grisly king;  
+            Yet thus, unmoved with fear, accost him soon.  
+            Which of those rebel Spirits adjudged to Hell  
+            Comest thou, escaped thy prison? and, transformed,  
+            Why sat’st thou like an enemy in wait,  
+            Here watching at the head of these that sleep?  
+            Know ye not then said Satan, filled with scorn,  
+            Know ye not me? ye knew me once no mate   
+            For you, there sitting where ye durst not soar:  
+            Not to know me argues yourselves unknown,  
+            The lowest of your throng; or, if ye know,  
+            Why ask ye, and superfluous begin  
+            Your message, like to end as much in vain?  
+            To whom thus Zephon, answering scorn with scorn.  
+            Think not, revolted Spirit, thy shape the same,  
+            Or undiminished brightness to be known,  
+            As when thou stoodest in Heaven upright and pure;  
+            That glory then, when thou no more wast good,  
+            Departed from thee; and thou resemblest now  
+            Thy sin and place of doom obscure and foul.  
+            But come, for thou, be sure, shalt give account  
+            To him who sent us, whose charge is to keep  
+            This place inviolable, and these from harm.  
+            So spake the Cherub; and his grave rebuke,  
+            Severe in youthful beauty, added grace  
+            Invincible: Abashed the Devil stood,  
+            And felt how awful goodness is, and saw  
+            Virtue in her shape how lovely; saw, and pined  
+            His loss; but chiefly to find here observed  
+            His lustre visibly impaired; yet seemed  
+            Undaunted. If I must contend, said he,  
+            Best with the best, the sender, not the sent,  
+            Or all at once; more glory will be won,  
+            Or less be lost. Thy fear, said Zephon bold,  
+            Will save us trial what the least can do  
+            Single against thee wicked, and thence weak.  
+            The Fiend replied not, overcome with rage;  
+            But, like a proud steed reined, went haughty on,  
+            Champing his iron curb: To strive or fly  
+            He held it vain; awe from above had quelled  
+            His heart, not else dismayed. Now drew they nigh  
+            The western point, where those half-rounding guards  
+            Just met, and closing stood in squadron joined,  
+            A waiting next command. To whom their Chief,  
+            Gabriel, from the front thus called aloud.  
+            O friends! I hear the tread of nimble feet  
+            Hasting this way, and now by glimpse discern  
+            Ithuriel and Zephon through the shade;  
+            And with them comes a third of regal port,  
+            But faded splendour wan; who by his gait  
+            And fierce demeanour seems the Prince of Hell,  
+            Not likely to part hence without contest;  
+            Stand firm, for in his look defiance lours.  
+            He scarce had ended, when those two approached,  
+            And brief related whom they brought, where found,  
+            How busied, in what form and posture couched.  
+            To whom with stern regard thus Gabriel spake.  
+            Why hast thou, Satan, broke the bounds prescribed  
+            To thy transgressions, and disturbed the charge  
+            Of others, who approve not to transgress  
+            By thy example, but have power and right  
+            To question thy bold entrance on this place;  
+            Employed, it seems, to violate sleep, and those  
+            Whose dwelling God hath planted here in bliss!  
+            To whom thus Satan with contemptuous brow.  
+            Gabriel? thou hadst in Heaven the esteem of wise,  
+            And such I held thee; but this question asked  
+            Puts me in doubt. Lives there who loves his pain!  
+            Who would not, finding way, break loose from Hell,  
+            Though thither doomed! Thou wouldst thyself, no doubt   
+            And boldly venture to whatever place  
+            Farthest from pain, where thou mightst hope to change  
+            Torment with ease, and soonest recompense  
+            Dole with delight, which in this place I sought;  
+            To thee no reason, who knowest only good,  
+            But evil hast not tried: and wilt object  
+            His will who bounds us! Let him surer bar  
+            His iron gates, if he intends our stay  
+            In that dark durance: Thus much what was asked.  
+            The rest is true, they found me where they say;  
+            But that implies not violence or harm.  
+            Thus he in scorn. The warlike Angel moved,  
+            Disdainfully half smiling, thus replied.  
+            O loss of one in Heaven to judge of wise  
+            Since Satan fell, whom folly overthrew,  
+            And now returns him from his prison ’scaped,  
+            Gravely in doubt whether to hold them wise  
+            Or not, who ask what boldness brought him hither  
+            Unlicensed from his bounds in Hell prescribed;  
+            So wise he judges it to fly from pain  
+            However, and to ’scape his punishment!  
+            So judge thou still, presumptuous! till the wrath,  
+            Which thou incurrest by flying, meet thy flight  
+            Sevenfold, and scourge that wisdom back to Hell,  
+            Which taught thee yet no better, that no pain  
+            Can equal anger infinite provoked.  
+            But wherefore thou alone? wherefore with thee  
+            Came not all hell broke loose? is pain to them  
+            Less pain, less to be fled? or thou than they  
+            Less hardy to endure? Courageous Chief!  
+            The first in flight from pain! hadst thou alleged  
+            To thy deserted host this cause of flight,  
+            Thou surely hadst not come sole fugitive.  
+            To which the Fiend thus answered, frowning stern.  
+            Not that I less endure, or shrink from pain,  
+            Insulting Angel! well thou knowest I stood  
+            Thy fiercest, when in battle to thy aid  
+            The blasting vollied thunder made all speed,  
+            And seconded thy else not dreaded spear.  
+            But still thy words at random, as before,  
+            Argue thy inexperience what behoves  
+            From hard assays and ill successes past  
+            A faithful leader, not to hazard all  
+            Through ways of danger by himself untried:  
+            I, therefore, I alone first undertook  
+            To wing the desolate abyss, and spy  
+            This new created world, whereof in Hell  
+            Fame is not silent, here in hope to find  
+            Better abode, and my afflicted Powers  
+            To settle here on earth, or in mid air;  
+            Though for possession put to try once more  
+            What thou and thy gay legions dare against;  
+            Whose easier business were to serve their Lord  
+            High up in Heaven, with songs to hymn his throne,  
+            And practised distances to cringe, not fight,  
+            To whom the warriour Angel soon replied.  
+            To say and straight unsay, pretending first  
+            Wise to fly pain, professing next the spy,  
+            Argues no leader but a liar traced,  
+            Satan, and couldst thou faithful add? O name,  
+            O sacred name of faithfulness profaned!  
+            Faithful to whom? to thy rebellious crew?  
+            Army of Fiends, fit body to fit head.  
+            Was this your discipline and faith engaged,  
+            Your military obedience, to dissolve  
+            Allegiance to the acknowledged Power supreme?  
+            And thou, sly hypocrite, who now wouldst seem  
+            Patron of liberty, who more than thou  
+            Once fawned, and cringed, and servilely adored  
+            Heaven’s awful Monarch? wherefore, but in hope  
+            To dispossess him, and thyself to reign?  
+            But mark what I arreed thee now, Avant;  
+            Fly neither whence thou fledst! If from this hour  
+            Within these hallowed limits thou appear,  
+            Back to the infernal pit I drag thee chained,  
+            And seal thee so, as henceforth not to scorn  
+            The facile gates of Hell too slightly barred.  
+            So threatened he; but Satan to no threats  
+            Gave heed, but waxing more in rage replied.  
+            Then when I am thy captive talk of chains,  
+            Proud limitary Cherub! but ere then  
+            Far heavier load thyself expect to feel  
+            From my prevailing arm, though Heaven’s King  
+            Ride on thy wings, and thou with thy compeers,  
+            Us’d to the yoke, drawest his triumphant wheels  
+            In progress through the road of Heaven star-paved.  
+            While thus he spake, the angelick squadron bright  
+            Turned fiery red, sharpening in mooned horns  
+            Their phalanx, and began to hem him round  
+            With ported spears, as thick as when a field  
+            Of Ceres ripe for harvest waving bends  
+            Her bearded grove of ears, which way the wind  
+            Sways them; the careful plowman doubting stands,  
+            Left on the threshing floor his hopeless sheaves  
+            Prove chaff. On the other side, Satan, alarmed,  
+            Collecting all his might, dilated stood,  
+            Like Teneriff or Atlas, unremoved:  
+            His stature reached the sky, and on his crest  
+            Sat Horrour plumed; nor wanted in his grasp  
+            What seemed both spear and shield: Now dreadful deeds  
+            Might have ensued, nor only Paradise  
+            In this commotion, but the starry cope  
+            Of Heaven perhaps, or all the elements  
+            At least had gone to wrack, disturbed and torn  
+            With violence of this conflict, had not soon  
+            The Eternal, to prevent such horrid fray,  
+            Hung forth in Heaven his golden scales, yet seen  
+            Betwixt Astrea and the Scorpion sign,  
+            Wherein all things created first he weighed,  
+            The pendulous round earth with balanced air  
+            In counterpoise, now ponders all events,  
+            Battles and realms: In these he put two weights,  
+            The sequel each of parting and of fight:  
+            The latter quick up flew, and kicked the beam,  
+            Which Gabriel spying, thus bespake the Fiend.  
+            Satan, I know thy strength, and thou knowest mine;  
+            Neither our own, but given: What folly then  
+            To boast what arms can do? since thine no more  
+            Than Heaven permits, nor mine, though doubled now  
+            To trample thee as mire: For proof look up,  
+            And read thy lot in yon celestial sign;  
+            Where thou art weighed, and shown how light, how weak,  
+            If thou resist. The Fiend looked up, and knew  
+            His mounted scale aloft: Nor more; but fled  
+            Murmuring, and with him fled the shades of night.  
             """,
             summary: """
             > Satan's first view of Paradise reveals both its beauty and his own corruption. His soliloquy exposes internal conflict—he acknowledges God's justice but cannot overcome his pride. This moment humanizes Satan, showing his capacity for self-awareness and even remorse, though ultimately his evil nature prevails. Adam and Eve appear in their prelapsarian perfection, innocent and harmonious with nature. Milton's portrait emphasizes both their equality as rational beings and their gender hierarchy, reflecting seventeenth-century views. Their bower represents ideal married love. Satan's envy transforms to active malice as he plots their destruction. The archangel Gabriel and his angelic patrol discover Satan whispering temptations into Eve's ear as she sleeps, planting the seeds for her troubling dream. When confronted, Satan initially defies Gabriel, but divine intervention—golden scales appearing in the sky—demonstrates the futility of his resistance, and he flees, temporarily prevented from executing his plan.
@@ -1211,16 +2216,34 @@ struct ReadingView: View {
             id: 5,
             title: "Book V",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **Now Morn**, her rosy steps in the eastern clime  
+            Advancing, sowed the earth with orient pearl,  
+            When Adam waked, so customed; for his sleep  
+            Was aery-light, from pure digestion bred,  
+            And temperate vapours bland, which the only sound  
+            Of leaves and fuming rills, Aurora’s fan,  
+            Lightly dispersed, and the shrill matin song  
+            Of birds on every bough; so much the more  
+            His wonder was to find unwakened Eve  
+            With tresses discomposed, and glowing cheek,  
+            As through unquiet rest: He, on his side  
+            Leaning half raised, with looks of cordial love  
+            Hung over her enamoured, and beheld  
+            Beauty, which, whether waking or asleep,  
+            Shot forth peculiar graces; then with voice  
+            Mild, as when Zephyrus on Flora breathes,  
+            Her hand soft touching, whispered thus. Awake,  
+            My fairest, my espoused, my latest found,  
+            Heaven’s last best gift, my ever new delight!  
+            Awake: The morning shines, and the fresh field  
+            Calls us; we lose the prime, to mark how spring  
+            Our tender plants, how blows the citron grove,  
+            What drops the myrrh, and what the balmy reed,  
+            How nature paints her colours, how the bee  
+            Sits on the bloom extracting liquid sweet.  
+            Such whispering waked her, but with startled eye  
+            On Adam, whom embracing, thus she spake.  
+            O sole in whom my thoughts find all repose,  
             """,
             summary: """
             > Eve awakens disturbed by her dream of temptation, which Satan has inspired. Adam comforts her, explaining that dreams don't reflect true desires, yet this foreshadows her actual fall. God sends Raphael to warn them about their enemy and emphasize the importance of obedience. Raphael's visit introduces the concept of the "sociable spirit"—angels and humans can commune through conversation and shared meals, though angelic digestion is purely metaphorical. Raphael begins recounting the War in Heaven, explaining how Satan, originally called Lucifer, resented God's exaltation of the Son. Satan's pride led him to corrupt a third of Heaven's angels through deceptive rhetoric, claiming divine tyranny and arguing for angelic independence. Abdiel, a faithful angel, courageously opposes Satan despite being alone among rebels, demonstrating that righteous dissent requires moral courage. This book explores themes of hierarchy, obedience, reason, and the nature of true freedom—obedience to God is liberty, while rebellion leads to slavery.
@@ -1231,16 +2254,38 @@ struct ReadingView: View {
             id: 6,
             title: "Book VI",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **All night** the dreadless Angel, unpursued,  
+            Through Heaven’s wide champain held his way; till Morn,  
+            Waked by the circling Hours, with rosy hand  
+            Unbarred the gates of light. There is a cave  
+            Within the mount of God, fast by his throne,  
+            Where light and darkness in perpetual round  
+            Lodge and dislodge by turns, which makes through Heaven  
+            Grateful vicissitude, like day and night;  
+            Light issues forth, and at the other door  
+            Obsequious darkness enters, till her hour  
+            To veil the Heaven, though darkness there might well  
+            Seem twilight here: And now went forth the Morn  
+            Such as in highest Heaven arrayed in gold  
+            Empyreal; from before her vanished Night,  
+            Shot through with orient beams; when all the plain  
+            Covered with thick embattled squadrons bright,  
+            Chariots, and flaming arms, and fiery steeds,  
+            Reflecting blaze on blaze, first met his view:  
+            War he perceived, war in procinct; and found  
+            Already known what he for news had thought  
+            To have reported: Gladly then he mixed  
+            Among those friendly Powers, who him received  
+            With joy and acclamations loud, that one,  
+            That of so many myriads fallen, yet one  
+            Returned not lost. On to the sacred hill  
+            They led him high applauded, and present  
+            Before the seat supreme; from whence a voice,  
+            From midst a golden cloud, thus mild was heard.  
+            Servant of God. Well done; well hast thou fought  
+            The better fight, who single hast maintained  
+            Against revolted multitudes the cause  
+            Of truth, in word mightier than they in arms;  
             """,
             summary: """
             > Raphael continues his narrative with the War in Heaven, spanning three days. Michael leads God's loyal angels against Satan's forces in cosmic battle. Milton faces the challenge of depicting warfare among immortal beings—angels cannot die, so defeated warriors simply reconstitute themselves. The rebels innovate by inventing artillery (an anachronistic detail symbolizing human military technology), but the faithful angels respond by hurling mountains. This escalating violence threatens Heaven itself until the Son, representing divine omnipotence, enters the battle alone on the third day. His chariot, drawn by cherubim and wielding the power of creation itself, drives the rebels to Heaven's edge. They fall through Chaos for nine days before landing in Hell. This battle allegory operates on multiple levels: theologically, it demonstrates that evil cannot prevail against divine power; politically, it may reflect English Civil War conflicts; and psychologically, it represents the soul's internal struggles. The Son's solo victory emphasizes that salvation comes through Christ alone, not collective military might.
@@ -1251,16 +2296,54 @@ struct ReadingView: View {
             id: 7,
             title: "Book VII",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **Descend from Heaven**, Urania, by that name  
+            If rightly thou art called, whose voice divine  
+            Following, above the Olympian hill I soar,  
+            Above the flight of Pegasean wing!  
+            The meaning, not the name, I call: for thou  
+            Nor of the Muses nine, nor on the top  
+            Of old Olympus dwellest; but, heavenly-born,  
+            Before the hills appeared, or fountain flowed,  
+            Thou with eternal Wisdom didst converse,  
+            Wisdom thy sister, and with her didst play  
+            In presence of the Almighty Father, pleased  
+            With thy celestial song. Up led by thee  
+            Into the Heaven of Heavens I have presumed,  
+            An earthly guest, and drawn empyreal air,  
+            Thy tempering: with like safety guided down  
+            Return me to my native element:  
+            Lest from this flying steed unreined, (as once  
+            Bellerophon, though from a lower clime,)  
+            Dismounted, on the Aleian field I fall,  
+            Erroneous there to wander, and forlorn.  
+            Half yet remains unsung, but narrower bound  
+            Within the visible diurnal sphere;  
+            Standing on earth, not rapt above the pole,  
+            More safe I sing with mortal voice, unchanged  
+            To hoarse or mute, though fallen on evil days,  
+            On evil days though fallen, and evil tongues;  
+            In darkness, and with dangers compassed round,  
+            And solitude; yet not alone, while thou  
+            Visitest my slumbers nightly, or when morn  
+            Purples the east: still govern thou my song,  
+            Urania, and fit audience find, though few.  
+            But drive far off the barbarous dissonance  
+            Of Bacchus and his revellers, the race  
+            Of that wild rout that tore the Thracian bard  
+            In Rhodope, where woods and rocks had ears  
+            To rapture, till the savage clamour drowned  
+            Both harp and voice; nor could the Muse defend  
+            Her son. So fail not thou, who thee implores:  
+            For thou art heavenly, she an empty dream.  
+            Say, Goddess, what ensued when Raphael,  
+            The affable Arch-Angel, had forewarned  
+            Adam, by dire example, to beware  
+            Apostasy, by what befel in Heaven  
+            To those apostates; lest the like befall  
+            In Paradise to Adam or his race,  
+            Charged not to touch the interdicted tree,  
+            If they transgress, and slight that sole command,  
+            So easily obeyed amid the choice  
             """,
             summary: """
             > Adam requests to hear about Creation, finding the topic more pleasant than warfare. Raphael explains that after Satan's fall, God decided to create a new world and new beings to replenish Heaven's diminished numbers and demonstrate His creative power. The Son, as God's creative Word, descends into Chaos with His golden compasses to impose order and form. Raphael's creation account closely follows Genesis but with elaborate poetic embellishment. Over six days, the Son creates light, firmament separating waters, earth with vegetation, celestial bodies, sea creatures and birds, land animals, and finally humanity. Each stage demonstrates divine artistry and purposeful design. Milton's universe is Ptolemaic—Earth-centered—not because he was ignorant of heliocentric theories, but because this cosmology served his theological narrative. The creation account emphasizes abundance, variety, and hierarchical order. Humanity, created last and "in God's image," stands at the pinnacle of material creation, with the potential to rise higher through obedience or fall lower through sin, foreshadowing the epic's central tragedy.
@@ -1271,16 +2354,41 @@ struct ReadingView: View {
             id: 8,
             title: "Book VIII",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **The Angel ended**, and in Adam’s ear  
+            So charming left his voice, that he a while  
+            Thought him still speaking, still stood fixed to hear;  
+            Then, as new waked, thus gratefully replied.  
+            What thanks sufficient, or what recompence  
+            Equal, have I to render thee, divine  
+            Historian, who thus largely hast allayed  
+            The thirst I had of knowledge, and vouchsafed  
+            This friendly condescension to relate  
+            Things, else by me unsearchable; now heard  
+            With wonder, but delight, and, as is due,  
+            With glory attributed to the high  
+            Creator! Something yet of doubt remains,  
+            Which only thy solution can resolve.  
+            When I behold this goodly frame, this world,  
+            Of Heaven and Earth consisting; and compute  
+            Their magnitudes; this Earth, a spot, a grain,  
+            An atom, with the firmament compared  
+            And all her numbered stars, that seem to roll  
+            Spaces incomprehensible, (for such  
+            Their distance argues, and their swift return  
+            Diurnal,) merely to officiate light  
+            Round this opacous Earth, this punctual spot,  
+            One day and night; in all her vast survey  
+            Useless besides; reasoning I oft admire,  
+            How Nature wise and frugal could commit  
+            Such disproportions, with superfluous hand  
+            So many nobler bodies to create,  
+            Greater so manifold, to this one use,  
+            For aught appears, and on their orbs impose  
+            Such restless revolution day by day  
+            Repeated; while the sedentary Earth,  
+            That better might with far less compass move,  
+            Served by more noble than herself, attains  
+            Her end without least motion, and receives,  
             """,
             summary: """
             > Adam reciprocates Raphael's storytelling by describing his own first memories. He recalls awakening to consciousness, wondering about his existence and identity, then encountering God, who places him in Eden and grants him dominion over creation. Adam's request for companionship reveals his rational self-awareness—despite Paradise's perfections, he recognizes his need for an equal partner. God tests Adam's reasoning by suggesting animals might suffice, but Adam articulates the need for intellectual and emotional communion. God, pleased with this response, creates Eve from Adam's rib while he sleeps. Adam's account of meeting Eve reveals his immediate, overwhelming attraction, which he confesses to Raphael with some embarrassment. Raphael warns against being governed by passion rather than reason—a crucial admonition that Adam will fail to heed. The angel emphasizes that love should be balanced with wisdom. Raphael then departs, having fulfilled his mission of warning and instruction. This book explores human relationships, the nature of companionship, and the proper ordering of reason and passion.
@@ -1291,16 +2399,51 @@ struct ReadingView: View {
             id: 9,
             title: "Book IX",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **No more of talk** where God or Angel guest  
+            With Man, as with his friend, familiar us’d,  
+            To sit indulgent, and with him partake  
+            Rural repast; permitting him the while  
+            Venial discourse unblam’d. I now must change  
+            Those notes to tragick; foul distrust, and breach  
+            Disloyal on the part of Man, revolt,  
+            And disobedience: on the part of Heaven  
+            Now alienated, distance and distaste,  
+            Anger and just rebuke, and judgement given,  
+            That brought into this world a world of woe,  
+            Sin and her shadow Death, and Misery  
+            Death’s harbinger: Sad task! yet argument  
+            Not less but more heroick than the wrath  
+            Of stern Achilles on his foe pursued  
+            Thrice fugitive about Troy wall; or rage  
+            Of Turnus for Lavinia disespous’d;  
+            Or Neptune’s ire, or Juno’s, that so long  
+            Perplexed the Greek, and Cytherea’s son:  
+            If answerable style I can obtain  
+            Of my celestial patroness, who deigns  
+            Her nightly visitation unimplor’d,  
+            And dictates to me slumbering; or inspires  
+            Easy my unpremeditated verse:  
+            Since first this subject for heroick song  
+            Pleas’d me long choosing, and beginning late;  
+            Not sedulous by nature to indite  
+            Wars, hitherto the only argument  
+            Heroick deem’d chief mastery to dissect  
+            With long and tedious havock fabled knights  
+            In battles feign’d; the better fortitude  
+            Of patience and heroick martyrdom  
+            Unsung; or to describe races and games,  
+            Or tilting furniture, imblazon’d shields,  
+            Impresses quaint, caparisons and steeds,  
+            Bases and tinsel trappings, gorgeous knights  
+            At joust and tournament; then marshall’d feast  
+            Serv’d up in hall with sewers and seneshals;  
+            The skill of artifice or office mean,  
+            Not that which justly gives heroick name  
+            To person, or to poem. Me, of these  
+            Nor skill’d nor studious, higher argument  
+            Remains; sufficient of itself to raise  
+            That name, unless an age too late, or cold  
+            Climate, or years, damp my intended wing  
             """,
             summary: """
             > Book 9 contains the epic's tragic climax. Milton signals the shift from celestial to terrestrial tragedy, noting this theme surpasses Homer and Virgil's martial epics. Satan returns to Eden after a nine-day absence, entering the serpent's body—a degradation from his former angelic glory. He finds Eve alone (she has insisted on working separately from Adam despite his mild objections), providing his opportunity. Satan's temptation speech is rhetorically masterful, flattering Eve's beauty, feigning amazement that the fruit gave him speech and reason, and subtly undermining God's prohibition as arbitrary and unjust. Eve, swayed by curiosity, pride, and the serpent's reasoning, eats the fruit. Her decision to share it with Adam presents him with an agonizing choice. Adam, recognizing her sin instantly, chooses to fall with her rather than live without her—a decision Milton portrays as simultaneously loving and catastrophically wrong. Their immediate effects include shame, lust replacing innocent love, and bitter mutual recrimination. Paradise is lost internally before their physical expulsion.
@@ -1311,16 +2454,39 @@ struct ReadingView: View {
             id: 10,
             title: "Book X",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **Mean while the heinous** and despiteful act  
+            Of Satan, done in Paradise; and how  
+            He, in the serpent, had perverted Eve,  
+            Her husband she, to taste the fatal fruit,  
+            Was known in Heaven; for what can ’scape the eye  
+            Of God all-seeing, or deceive his heart  
+            Omniscient? who, in all things wise and just,  
+            Hindered not Satan to attempt the mind  
+            Of Man, with strength entire and free will armed,  
+            Complete to have discovered and repulsed  
+            Whatever wiles of foe or seeming friend.  
+            For still they knew, and ought to have still remembered,  
+            The high injunction, not to taste that fruit,  
+            Whoever tempted; which they not obeying,  
+            (Incurred what could they less?) the penalty;  
+            And, manifold in sin, deserved to fall.  
+            Up into Heaven from Paradise in haste  
+            The angelick guards ascended, mute, and sad,  
+            For Man; for of his state by this they knew,  
+            Much wondering how the subtle Fiend had stolen  
+            Entrance unseen. Soon as the unwelcome news  
+            From Earth arrived at Heaven-gate, displeased  
+            All were who heard; dim sadness did not spare  
+            That time celestial visages, yet, mixed  
+            With pity, violated not their bliss.  
+            About the new-arrived, in multitudes  
+            The ethereal people ran, to hear and know  
+            How all befel: They towards the throne supreme,  
+            Accountable, made haste, to make appear,  
+            With righteous plea, their utmost vigilance  
+            And easily approved; when the Most High  
+            Eternal Father, from his secret cloud,  
+            Amidst in thunder uttered thus his voice.  
             """,
             summary: """
             > The consequences of the Fall unfold dramatically. The Son descends to judge Adam and Eve, but His judgment mingles justice with mercy—pronouncing curses that align with Genesis (pain in childbirth, agricultural toil, death) while clothing them, symbolizing divine compassion. In Heaven, angels observe the cosmic changes: nature becomes hostile, seasons harsh, animals predatory. Meanwhile, Sin and Death, sensing their opportunity, build a bridge from Hell to Earth, creating an easy passage for evil to infiltrate the world. Satan returns to Hell expecting triumphant celebration but finds his followers transformed into hissing serpents, compulsively eating bitter fruit—a symbolic punishment revealing their true nature. On Earth, Adam and Eve experience despair, shame, and mutual blame. Adam's bitter speeches reflect human psychology at its worst—regret, anger, and self-pity. Yet Eve's eventual gesture of reconciliation and suggestion they seek forgiveness marks the beginning of repentance. Their decision to pray together represents humanity's first step toward redemption, demonstrating that even in fallen state, humans retain capacity for moral growth.
@@ -1331,16 +2497,37 @@ struct ReadingView: View {
             id: 11,
             title: "Book XI",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **Thus they**, in lowliest plight, repentant stood  
+            Praying; for from the mercy-seat above  
+            Prevenient grace descending had removed  
+            The stony from their hearts, and made new flesh  
+            Regenerate grow instead; that sighs now breathed  
+            Unutterable; which the Spirit of prayer  
+            Inspired, and winged for Heaven with speedier flight  
+            Than loudest oratory: Yet their port  
+            Not of mean suitors; nor important less  
+            Seemed their petition, than when the ancient pair  
+            In fables old, less ancient yet than these,  
+            Deucalion and chaste Pyrrha, to restore  
+            The race of mankind drowned, before the shrine  
+            Of Themis stood devout. To Heaven their prayers  
+            Flew up, nor missed the way, by envious winds  
+            Blown vagabond or frustrate: in they passed  
+            Dimensionless through heavenly doors; then clad  
+            With incense, where the golden altar fumed,  
+            By their great intercessour, came in sight  
+            Before the Father’s throne: them the glad Son  
+            Presenting, thus to intercede began.  
+            See Father, what first-fruits on earth are sprung  
+            From thy implanted grace in Man; these sighs  
+            And prayers, which in this golden censer mixed  
+            With incense, I thy priest before thee bring;  
+            Fruits of more pleasing savour, from thy seed  
+            Sown with contrition in his heart, than those  
+            Which, his own hand manuring, all the trees  
+            Of Paradise could have produced, ere fallen  
+            From innocence. Now therefore, bend thine ear  
+            To supplication; hear his sighs, though mute;  
             """,
             summary: """
             > God accepts their repentance but decrees they must leave Paradise. Michael descends to execute this sentence but first offers Adam visions of human history, functioning as prophetic instruction. From a mountaintop, Adam witnesses the future: Cain's murder of Abel (the first death, shocking Adam profoundly), the growth of civilization with both achievements and corruptions, the increasing wickedness that provokes God's judgment in Noah's Flood, and the subsequent covenant. These visions devastate Adam as he recognizes that his sin has unleashed death, violence, and suffering upon his descendants. Michael explains that death takes many forms—disease, old age, violence—and that humans must learn temperance and virtue to mitigate suffering. The flood sequence emphasizes both divine justice and mercy—judgment destroys the wicked but preserves the righteous remnant. Adam learns that history will involve perpetual struggle between good and evil until final redemption. This educational experience transforms Adam's understanding, preparing him for exile with greater wisdom about Providence, suffering, and the long arc of salvation history.  
@@ -1351,16 +2538,38 @@ struct ReadingView: View {
             id: 12,
             title: "Book XII",
             originalText: """
-            ## Council in Pandemonium
-
-            High on a throne of royal state, which far  
-            Outshone the wealth of Ormus and of Ind,  
-            Or where the gorgeous East with richest hand  
-            Showers on her kings barbaric pearl and gold,  
-            Satan exalted sat...
-
-            - Debate among the fallen angels
-            - Plans to corrupt the newly created world
+            **As one who** in his journey bates at noon,  
+            Though bent on speed; so here the Arch-Angel paused  
+            Betwixt the world destroyed and world restored,  
+            If Adam aught perhaps might interpose;  
+            Then, with transition sweet, new speech resumes.  
+            Thus thou hast seen one world begin, and end;  
+            And Man, as from a second stock, proceed.  
+            Much thou hast yet to see; but I perceive  
+            Thy mortal sight to fail; objects divine  
+            Must needs impair and weary human sense:  
+            Henceforth what is to come I will relate;  
+            Thou therefore give due audience, and attend.  
+            This second source of Men, while yet but few,  
+            And while the dread of judgement past remains  
+            Fresh in their minds, fearing the Deity,  
+            With some regard to what is just and right  
+            Shall lead their lives, and multiply apace;  
+            Labouring the soil, and reaping plenteous crop,  
+            Corn, wine, and oil; and, from the herd or flock,  
+            Oft sacrificing bullock, lamb, or kid,  
+            With large wine-offerings poured, and sacred feast,  
+            Shall spend their days in joy unblamed; and dwell  
+            Long time in peace, by families and tribes,  
+            Under paternal rule: till one shall rise  
+            Of proud ambitious heart; who, not content  
+            With fair equality, fraternal state,  
+            Will arrogate dominion undeserved  
+            Over his brethren, and quite dispossess  
+            Concord and law of nature from the earth;  
+            Hunting (and men not beasts shall be his game)  
+            With war, and hostile snare, such as refuse  
+            Subjection to his empire tyrannous:  
             """,
             summary: """
             > Michael continues the prophetic narrative, tracing redemption history through Abraham, Moses, and the prophets. The giving of Mosaic Law demonstrates humanity's need for external guidance due to corrupted internal reason. However, Michael explains that law alone cannot save—it reveals sin without providing remedy. The culmination comes with prophecy of Christ's incarnation, life, crucifixion, resurrection, and ascension. This revelation transforms Adam's despair into joy as he recognizes the "fortunate fall"—his sin, while terrible, occasions greater good through redemption. Michael describes the Church's establishment, its trials, corruptions, and ultimate purification at Christ's second coming. Eve receives consolation through dreams revealing her role as mother of humanity and of the promised Redeemer. Finally, Michael leads them from Paradise. The closing image is deeply moving: Adam and Eve, hand in hand, looking back at Eden with tears but also hope, stepping into an uncertain world. They exchange security for freedom, innocence for moral knowledge, and Paradise for the opportunity to build something meaningful through their choices. Milton's conclusion balances loss and hope, tragedy and redemption.
