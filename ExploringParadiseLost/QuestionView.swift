@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Charts
 
 struct QuestionView: View {
     @State private var score = 0
@@ -167,7 +168,62 @@ struct QuestionView: View {
                                 .padding(.horizontal, 12)
                                 .frame(width: 300 - 16, height: 75, alignment: .center)
                             }
-
+                            
+                            // 圖表區塊
+                            let correctAnswers = score / 10
+                            let incorrectAnswers = select.count - correctAnswers
+                            let chartData = [
+                                    ChartData(category: "Correct", count: correctAnswers, color: .green),
+                                    ChartData(category: "Wrong", count: incorrectAnswers, color: .red)
+                                            ]
+                            ZStack{
+                                RoundedRectangle(cornerRadius: 26, style: .continuous)
+                                    .fill(Color.white)
+                                    .opacity(0.8)
+                                    .frame(width: 300, height: 260)
+                                
+                                VStack(spacing: 0){
+                                    Text("Quiz Result Distribution (Total: \(select.count))")
+                                        .font(.headline)
+                                        .bold()
+                                        .padding(.top, 10)
+                                
+                                Chart(chartData){data in
+                                    SectorMark(angle: .value(data.category, data.count),
+                                               innerRadius: 50,
+                                               outerRadius: 100,
+                                               angularInset: 1.0)
+                                    .cornerRadius(5)
+                                    .foregroundStyle(data.color)
+                                    // 顯示題數在扇形中央
+                                    .annotation(position: .overlay){
+                                        Text("\(data.count)")
+                                            .font(.headline)
+                                            .foregroundColor(.white)
+                                            .shadow(color: .black.opacity(0.5), radius: 2)
+                                    }
+                                }
+                                .frame(width: 200, height: 200)
+                                .padding(.bottom, 5)
+                                
+                                // 顯示自定義圖例
+                                    HStack(spacing: 15){
+                                        HStack(spacing: 5){
+                                            Circle().fill(.green).frame(width: 10, height: 10)
+                                            Text("Correct: \(correctAnswers)")
+                                                .font(.caption)
+                                        }
+                                        HStack(spacing: 5){
+                                            Circle().fill(.red).frame(width: 10, height: 10)
+                                            Text("Wrong: \(incorrectAnswers)")
+                                                .font(.caption)
+                                        }
+                                    }
+                                }
+                            }
+                            .padding(.vertical, 10)
+                            
+                            // 開始按鈕
                             Button("Restart"){
                                 score = 0
                                 total = 0
