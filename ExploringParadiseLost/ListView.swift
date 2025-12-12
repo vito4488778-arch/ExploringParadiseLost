@@ -9,10 +9,45 @@ import SwiftUI
 
 struct ListView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack{
+            List{
+                NavigationLink(destination:AuthorView()){
+                    HStack(spacing:40){
+                        Image("Author")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 120, height: 120)
+                        Text("Author Info")
+                            .font(.title)
+                    }
+                }
+                NavigationLink(destination: FavoriteLineView()){
+                    HStack(spacing:40){
+                        Image("Contextual Background Image")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 120, height: 120)
+                        Text("Contextual Background ")
+                            .font(.title)
+                    }
+                }
+                NavigationLink(destination:CreateBackgroundView() ){
+                    HStack(spacing: 40){
+                        Image("Favorite Line Image")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 120, height: 120)
+                        Text("Favorite Line")
+                            .font(.title)
+                    }
+                }
+                
+            }
+            }
+        }
     }
-}
+
 
 #Preview {
-    ListView()
+   ListView()
 }
