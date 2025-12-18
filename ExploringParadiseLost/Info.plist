@@ -4,6 +4,7 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
+		<string>SymphonieCalligraphyDEMO-Regular.otf</string>
 		<string>DK Paradise Lost.otf</string>
 	</array>
 </dict>

@@ -21,7 +21,7 @@ struct ListView: View {
                             .font(.title)
                     }
                 }
-                NavigationLink(destination: FavoriteLineView()){
+                NavigationLink(destination: CreateBackgroundView()){
                     HStack(spacing:40){
                         Image("Contextual Background Image")
                             .resizable()
@@ -31,19 +31,19 @@ struct ListView: View {
                             .font(.title)
                     }
                 }
-                NavigationLink(destination:CreateBackgroundView() ){
+                NavigationLink(destination:FavoriteQuoteView() ){
                     HStack(spacing: 40){
-                        Image("Favorite Line Image")
+                        Image("Favorite Quote Image")
                             .resizable()
                             .scaledToFit()
                             .frame(width: 120, height: 120)
-                        Text("Favorite Line")
+                        Text("Favorite Quote")
                             .font(.title)
                     }
                 }
                 
             }
-            }
+        }
         }
     }
 
