@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Milton_diktiert_seinen_Töchtern_das_»Paradise_Lost«_(Eugène_Ferdinand_Victor_Delacroix).jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
