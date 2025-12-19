@@ -124,9 +124,9 @@ struct CharacterView: View {
     var body: some View {
         TabView{
             ZStack{   // 撒旦介紹
-                RoundedRectangle(cornerRadius: 26, style: .continuous)
-                    .fill(Color(red: 148/255, green: 16/255, blue: 16/255))
-                    .opacity(0.3)
+                    RoundedRectangle(cornerRadius: 26, style: .continuous)
+                        .fill(Color(red: 148/255, green: 16/255, blue: 16/255))
+                        .opacity(0.3)
                 VStack(spacing: 12) {
                     VStack{
                         Image("Satan")
